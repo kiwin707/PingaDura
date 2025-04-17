@@ -1856,3 +1856,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 05:39:19.684] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=63, y=98, z=85}
 [17Apr2025 05:51:49.736] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=103, y=93, z=41}
 [17Apr2025 05:53:18.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Possessed Pigman
+[17Apr2025 05:59:20.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Goat Man
+[17Apr2025 06:02:57.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=94, z=41} BlockPos{x=65, y=93, z=41}
+[17Apr2025 06:10:27.485] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=103, y=92, z=61}
+[17Apr2025 06:14:35.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Warped]
+[17Apr2025 06:16:57.536] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=85, y=84, z=3}
