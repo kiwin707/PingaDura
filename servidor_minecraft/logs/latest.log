@@ -1689,3 +1689,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 02:26:21.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Corpse Fly
 [17Apr2025 02:26:48.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wayan moved wrongly!
 [17Apr2025 02:27:03.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi has made the advancement [Getting an Upgrade]
+[17Apr2025 02:35:43.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wayan lost connection: Disconnected
+[17Apr2025 02:35:43.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan left the game
+[17Apr2025 02:35:43.006] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a4ad1f4-d670-3503-9759-740c9c6667a8 was unloaded
+[17Apr2025 02:35:52.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wayan[/127.175.80.105:34641] logged in with entity id 20429 at (142.06285582948504, 134.0, -84.28249362934694)
+[17Apr2025 02:35:52.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan joined the game
+[17Apr2025 02:35:53.480] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a4ad1f4-d670-3503-9759-740c9c6667a8 was loaded
+[17Apr2025 02:37:10.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Wolf
+[17Apr2025 02:37:18.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sofidi lost connection: Disconnected
+[17Apr2025 02:37:18.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi left the game
+[17Apr2025 02:37:18.801] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b33e39b9-e22d-30f3-8ae9-b591527cf2b9 was unloaded
+[17Apr2025 02:38:16.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sofidi[/127.192.183.189:49377] logged in with entity id 21879 at (90.95818502946665, 94.0, 36.8313195548565)
+[17Apr2025 02:38:16.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi joined the game
+[17Apr2025 02:38:16.678] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b33e39b9-e22d-30f3-8ae9-b591527cf2b9 was loaded
+[17Apr2025 02:39:29.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was shot by Skeleton
+[17Apr2025 02:40:48.635] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=110, y=105, z=-97}
+[17Apr2025 02:40:52.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan has made the advancement [Not Today, Thank You]
+[17Apr2025 02:41:45.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Goat Man
+[17Apr2025 02:42:08.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Wolf
+[17Apr2025 02:44:58.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was killed by Witch using magic

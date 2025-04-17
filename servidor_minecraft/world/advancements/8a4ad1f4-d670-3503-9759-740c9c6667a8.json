@@ -474,5 +474,11 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-17 02:40:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
