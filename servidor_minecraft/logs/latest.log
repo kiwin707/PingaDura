@@ -1838,3 +1838,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 05:04:00.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan has made the advancement [Isn't It Iron Pick]
 [17Apr2025 05:05:10.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Zombie
 [17Apr2025 05:05:48.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Goat Man
+[17Apr2025 05:10:24.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Diamonds!]
+[17Apr2025 05:10:35.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan has made the advancement [Diamonds!]
+[17Apr2025 05:16:36.434] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=51, y=99, z=74}
