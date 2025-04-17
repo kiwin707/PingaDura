@@ -1852,3 +1852,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 05:27:00.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Hunt and Gather]
 [17Apr2025 05:27:54.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Goat Man
 [17Apr2025 05:35:41.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2412ms or 48 ticks behind
+[17Apr2025 05:38:51.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Zombie
+[17Apr2025 05:39:19.684] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=63, y=98, z=85}
+[17Apr2025 05:51:49.736] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=103, y=93, z=41}
+[17Apr2025 05:53:18.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Possessed Pigman
