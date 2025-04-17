@@ -384,33 +384,9 @@
     },
     "done": false
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-04-17 02:58:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-04-17 02:58:56 +0000"
-    },
-    "done": true
-  },
   "endofherobrine:story/root": {
     "criteria": {
       "requirement": "2025-04-17 02:49:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-04-17 02:57:48 +0000"
-    },
-    "done": true
-  },
-  "silentgear:root": {
-    "criteria": {
-      "get_item": "2025-04-17 02:56:42 +0000"
     },
     "done": true
   },
@@ -426,9 +402,33 @@
     },
     "done": true
   },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-04-17 02:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-17 02:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-17 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-17 02:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-17 02:58:56 +0000"
     },
     "done": true
   },
