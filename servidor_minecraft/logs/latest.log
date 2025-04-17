@@ -1763,3 +1763,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 03:11:58.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sofidi[/127.192.183.189:53915] logged in with entity id 36313 at (75.30000001192093, 87.0, 46.30000001192093)
 [17Apr2025 03:11:58.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi joined the game
 [17Apr2025 03:11:59.107] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b33e39b9-e22d-30f3-8ae9-b591527cf2b9 was loaded
+[17Apr2025 03:19:44.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sofidi lost connection: Timed out
+[17Apr2025 03:19:44.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi left the game
+[17Apr2025 03:19:44.596] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b33e39b9-e22d-30f3-8ae9-b591527cf2b9 was unloaded
+[17Apr2025 03:20:03.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sofidi[/127.192.183.189:33203] logged in with entity id 38753 at (82.92182453419485, 89.0, 44.58730653673163)
+[17Apr2025 03:20:03.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi joined the game
+[17Apr2025 03:20:03.827] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b33e39b9-e22d-30f3-8ae9-b591527cf2b9 was loaded
+[17Apr2025 03:23:18.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wayan lost connection: Disconnected
+[17Apr2025 03:23:18.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan left the game
+[17Apr2025 03:23:18.295] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a4ad1f4-d670-3503-9759-740c9c6667a8 was unloaded
+[17Apr2025 03:23:18.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiwin lost connection: Disconnected
+[17Apr2025 03:23:18.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin left the game
+[17Apr2025 03:23:18.443] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cbed6b62-2cfc-3c05-b6c5-43bf236dcd2a was unloaded
+[17Apr2025 03:23:30.357] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wayan[/127.175.80.105:48113] logged in with entity id 39213 at (69.8685635979924, 83.0, 43.69999998807907)
+[17Apr2025 03:23:30.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan joined the game
+[17Apr2025 03:23:30.878] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a4ad1f4-d670-3503-9759-740c9c6667a8 was loaded
+[17Apr2025 03:23:31.310] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiwin[/127.133.96.124:46001] logged in with entity id 39217 at (68.64477440413154, 86.0, 37.30000001192093)
+[17Apr2025 03:23:31.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin joined the game
+[17Apr2025 03:23:31.743] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cbed6b62-2cfc-3c05-b6c5-43bf236dcd2a was loaded
+[17Apr2025 03:23:35.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi has made the advancement [Not Today, Thank You]
+[17Apr2025 03:24:22.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Not Today, Thank You]
+[17Apr2025 03:24:32.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Voluntary Exile]

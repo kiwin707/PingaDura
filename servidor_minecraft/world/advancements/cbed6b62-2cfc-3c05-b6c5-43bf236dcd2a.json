@@ -440,6 +440,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-17 03:23:47 +0000",
       "minecraft:skeleton": "2025-04-17 02:35:09 +0000",
       "minecraft:zombie": "2025-04-17 02:02:54 +0000"
     },
@@ -454,6 +455,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-17 02:15:31 +0000",
+      "cooked_mutton": "2025-04-17 03:16:48 +0000",
       "apple": "2025-04-17 02:07:41 +0000",
       "mutton": "2025-04-17 03:06:49 +0000",
       "rotten_flesh": "2025-04-17 03:06:59 +0000"
@@ -466,15 +468,15 @@
     },
     "done": true
   },
-  "buildersdelight:root": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_iron_ingot": "2025-04-17 02:24:29 +0000"
+      "slept_in_bed": "2025-04-17 02:22:55 +0000"
     },
     "done": true
   },
-  "create:copper": {
+  "buildersdelight:root": {
     "criteria": {
-      "0": "2025-04-17 02:58:43 +0000"
+      "has_iron_ingot": "2025-04-17 02:24:29 +0000"
     },
     "done": true
   },
@@ -484,9 +486,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "create:copper": {
     "criteria": {
-      "slept_in_bed": "2025-04-17 02:22:55 +0000"
+      "0": "2025-04-17 02:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-17 03:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-17 03:24:32 +0000"
     },
     "done": true
   },

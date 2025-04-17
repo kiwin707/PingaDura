@@ -485,15 +485,15 @@
     },
     "done": true
   },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-04-17 03:10:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-17 02:46:59 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-04-17 03:10:04 +0000"
     },
     "done": true
   },
