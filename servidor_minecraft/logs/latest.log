@@ -1686,3 +1686,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 02:23:24.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan joined the game
 [17Apr2025 02:23:24.638] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a4ad1f4-d670-3503-9759-740c9c6667a8 was loaded
 [17Apr2025 02:24:29.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Acquire Hardware]
+[17Apr2025 02:26:21.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Corpse Fly
+[17Apr2025 02:26:48.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wayan moved wrongly!
+[17Apr2025 02:27:03.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi has made the advancement [Getting an Upgrade]
