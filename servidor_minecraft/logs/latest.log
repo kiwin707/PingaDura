@@ -1811,3 +1811,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 03:45:34.510] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wayan[/127.175.80.105:43911] logged in with entity id 45833 at (47.61625100054186, 84.0, 65.17807820487113)
 [17Apr2025 03:45:34.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan joined the game
 [17Apr2025 03:45:35.031] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a4ad1f4-d670-3503-9759-740c9c6667a8 was loaded
+[17Apr2025 03:47:31.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan has made the advancement [A Seedy Place]
+[17Apr2025 03:48:45.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Sky of Beginning]
+[17Apr2025 03:52:20.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi has made the advancement [Warped]
+[17Apr2025 03:54:42.085] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=41, y=87, z=45}

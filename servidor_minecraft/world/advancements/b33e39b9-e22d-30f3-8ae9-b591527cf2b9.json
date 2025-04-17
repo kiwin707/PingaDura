@@ -332,6 +332,7 @@
       "minecraft:snowy_taiga": "2025-04-17 03:37:14 +0000",
       "minecraft:grove": "2025-04-17 03:37:51 +0000",
       "minecraft:forest": "2025-04-17 01:53:08 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-17 03:51:31 +0000",
       "minecraft:plains": "2025-04-17 01:51:25 +0000"
     },
     "done": false
@@ -467,6 +468,18 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-04-17 03:23:35 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "sapling": "2025-04-17 03:52:15 +0000"
+    },
+    "done": false
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-04-17 03:52:20 +0000"
     },
     "done": true
   },
