@@ -435,6 +435,12 @@
     },
     "done": true
   },
+  "buildersdelight:root": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-17 03:36:48 +0000"
+    },
+    "done": true
+  },
   "silentgear:standard_tools": {
     "criteria": {
       "pickaxe": "2025-04-17 03:35:27 +0000"
@@ -447,9 +453,21 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-17 03:36:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-04-17 03:27:35 +0000"
+    },
+    "done": true
+  },
+  "silentgear:kachink1": {
+    "criteria": {
+      "kachink": "2025-04-17 03:43:40 +0000"
     },
     "done": true
   },

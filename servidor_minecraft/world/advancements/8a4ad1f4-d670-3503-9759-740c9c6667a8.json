@@ -449,6 +449,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-17 03:44:52 +0000",
       "minecraft:skeleton": "2025-04-17 02:29:15 +0000",
       "minecraft:creeper": "2025-04-17 03:13:08 +0000",
       "minecraft:zombie": "2025-04-17 02:05:31 +0000"
@@ -494,6 +495,12 @@
   "create:copper": {
     "criteria": {
       "0": "2025-04-17 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-17 03:44:52 +0000"
     },
     "done": true
   },

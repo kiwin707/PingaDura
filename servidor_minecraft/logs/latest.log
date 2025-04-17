@@ -1790,3 +1790,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 03:34:17.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sofidi> zzzzzzzzzzzzzzzzz
 [17Apr2025 03:35:55.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi was doomed to fall by Donkey
 [17Apr2025 03:36:12.035] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=61, y=92, z=33}
+[17Apr2025 03:36:48.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX has made the advancement [Acquire Hardware]
+[17Apr2025 03:41:13.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sofidi moved too quickly! 2.8463067549676246,-6.252203340253729,7.39893289172457
+[17Apr2025 03:42:05.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sofidi lost connection: Timed out
+[17Apr2025 03:42:05.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi left the game
+[17Apr2025 03:42:05.556] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b33e39b9-e22d-30f3-8ae9-b591527cf2b9 was unloaded
+[17Apr2025 03:43:40.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX has made the advancement [Ka-chink! 1]
+[17Apr2025 03:43:55.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sofidi[/127.192.183.189:57869] logged in with entity id 45416 at (46.62751028421245, 62.48505268577997, 177.99114159919623)
+[17Apr2025 03:43:55.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi joined the game
+[17Apr2025 03:43:56.532] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b33e39b9-e22d-30f3-8ae9-b591527cf2b9 was loaded
+[17Apr2025 03:44:11.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi was slain by Drowned
+[17Apr2025 03:44:22.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sofidi lost connection: Disconnected
+[17Apr2025 03:44:22.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi left the game
+[17Apr2025 03:44:52.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan has made the advancement [Voluntary Exile]
+[17Apr2025 03:44:57.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sofidi[/127.192.183.189:49697] logged in with entity id 45662 at (46.62751028421245, 62.48505268577997, 177.99114159919623)
+[17Apr2025 03:44:57.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi joined the game
+[17Apr2025 03:45:24.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wayan lost connection: Disconnected
+[17Apr2025 03:45:24.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan left the game
+[17Apr2025 03:45:24.696] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a4ad1f4-d670-3503-9759-740c9c6667a8 was unloaded
+[17Apr2025 03:45:34.510] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wayan[/127.175.80.105:43911] logged in with entity id 45833 at (47.61625100054186, 84.0, 65.17807820487113)
+[17Apr2025 03:45:34.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan joined the game
+[17Apr2025 03:45:35.031] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a4ad1f4-d670-3503-9759-740c9c6667a8 was loaded
