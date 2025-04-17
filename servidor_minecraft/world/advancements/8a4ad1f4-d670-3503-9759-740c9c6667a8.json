@@ -504,6 +504,18 @@
     },
     "done": true
   },
+  "silentgear:standard_tools": {
+    "criteria": {
+      "pickaxe": "2025-04-17 04:07:08 +0000"
+    },
+    "done": false
+  },
+  "silentgear:kachink1": {
+    "criteria": {
+      "kachink": "2025-04-17 04:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-04-17 03:47:31 +0000"

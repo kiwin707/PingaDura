@@ -383,6 +383,7 @@
       "minecraft:frozen_river": "2025-04-17 02:49:05 +0000",
       "minecraft:river": "2025-04-17 02:52:37 +0000",
       "minecraft:snowy_plains": "2025-04-15 18:27:02 +0000",
+      "minecraft:stony_shore": "2025-04-17 04:17:08 +0000",
       "minecraft:snowy_taiga": "2025-04-15 18:26:59 +0000",
       "minecraft:grove": "2025-04-17 02:30:18 +0000",
       "minecraft:forest": "2025-04-15 18:26:47 +0000",
@@ -443,6 +444,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-17 03:23:47 +0000",
       "minecraft:skeleton": "2025-04-17 02:35:09 +0000",
+      "minecraft:creeper": "2025-04-17 04:18:28 +0000",
       "minecraft:zombie": "2025-04-17 02:02:54 +0000"
     },
     "done": false
@@ -510,6 +512,12 @@
       "flower": "2025-04-17 03:48:45 +0000"
     },
     "done": true
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "sapling": "2025-04-17 04:14:00 +0000"
+    },
+    "done": false
   },
   "botania:main/flower_pickup_lexicon": {
     "criteria": {

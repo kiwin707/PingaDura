@@ -1822,3 +1822,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 04:00:13.797] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 119c8b25-99ca-3cb8-80b7-b033aceb9fa2 was unloaded
 [17Apr2025 04:03:31.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sofidi moved too quickly! 9.606553274481158,2.176759275064242,2.323666371413662
 [17Apr2025 04:05:00.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Those'll Do For Now]
+[17Apr2025 04:07:12.135] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=80, y=95, z=50}
+[17Apr2025 04:11:56.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sofidi lost connection: Disconnected
+[17Apr2025 04:11:56.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi left the game
+[17Apr2025 04:11:56.351] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b33e39b9-e22d-30f3-8ae9-b591527cf2b9 was unloaded
+[17Apr2025 04:16:49.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan has made the advancement [Ka-chink! 1]
+[17Apr2025 04:22:43.536] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=24, y=73, z=13}
