@@ -1815,3 +1815,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 03:48:45.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Sky of Beginning]
 [17Apr2025 03:52:20.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi has made the advancement [Warped]
 [17Apr2025 03:54:42.085] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=41, y=87, z=45}
+[17Apr2025 03:56:44.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LEMONZX> e
+[17Apr2025 03:58:20.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi has made the advancement [Monster Hunter]
+[17Apr2025 04:00:13.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LEMONZX lost connection: Disconnected
+[17Apr2025 04:00:13.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX left the game
+[17Apr2025 04:00:13.797] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 119c8b25-99ca-3cb8-80b7-b033aceb9fa2 was unloaded
+[17Apr2025 04:03:31.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sofidi moved too quickly! 9.606553274481158,2.176759275064242,2.323666371413662
+[17Apr2025 04:05:00.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Those'll Do For Now]

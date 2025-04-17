@@ -523,9 +523,21 @@
     },
     "done": true
   },
+  "silentgear:template_board": {
+    "criteria": {
+      "get_item": "2025-04-17 04:05:00 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2025-04-17 03:48:45 +0000"
+    },
+    "done": true
+  },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "apothecary": "2025-04-17 04:04:32 +0000"
     },
     "done": true
   },
