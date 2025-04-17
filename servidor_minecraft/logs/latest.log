@@ -1784,3 +1784,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 03:23:35.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi has made the advancement [Not Today, Thank You]
 [17Apr2025 03:24:22.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Not Today, Thank You]
 [17Apr2025 03:24:32.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Voluntary Exile]
+[17Apr2025 03:27:35.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX was blown up by Creeper
+[17Apr2025 03:28:13.135] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=114, y=86, z=77}
+[17Apr2025 03:32:33.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX was doomed to fall by Skeleton
+[17Apr2025 03:34:17.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sofidi> zzzzzzzzzzzzzzzzz
+[17Apr2025 03:35:55.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi was doomed to fall by Donkey
+[17Apr2025 03:36:12.035] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=61, y=92, z=33}

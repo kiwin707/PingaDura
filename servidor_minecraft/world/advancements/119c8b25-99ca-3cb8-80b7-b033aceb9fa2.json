@@ -435,5 +435,23 @@
     },
     "done": true
   },
+  "silentgear:standard_tools": {
+    "criteria": {
+      "pickaxe": "2025-04-17 03:35:27 +0000"
+    },
+    "done": false
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-04-17 03:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-04-17 03:27:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
