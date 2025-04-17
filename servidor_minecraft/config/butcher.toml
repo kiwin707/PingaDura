@@ -1,0 +1,31 @@
+
+["Corpse Drops"]
+	#Enable/Disable Mobs Causing Corpse To Drop
+	"Bat Corpse" = true
+	"Chicken Corpse" = true
+	"Cow Corpse" = true
+	"Frog Corpse" = true
+	"Goat Corpse" = true
+	"Hoglin Corpse" = true
+	"Pig Corpse" = true
+	"Rabbit Corpse" = true
+	"Sheep Corpse" = true
+	"Squid Corpse" = true
+	"Turtle Corpse" = true
+	"Villager Corpse" = true
+	"Fox Corpse" = true
+	"Puffer Corpse" = true
+	"Llama Corpse" = true
+	"Panda Corpse" = true
+	"Polar Bear Corpse" = true
+	"Salmon Corpse" = true
+	"Dolphin Corpse" = true
+
+["Always Drop Corpses"]
+	#With this enabled corpses will only drop with the butchers knifes and butchery enchantment. Disabling this will cause corpses to drop with any tool/weapon.
+	"Specific Tools" = true
+
+["Farmers Delight"]
+	#Enable this to use Farmer's delight foods instead of butchery's foods
+	"Farmers Delight Food" = false
+

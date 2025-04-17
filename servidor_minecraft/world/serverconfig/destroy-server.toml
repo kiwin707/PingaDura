@@ -1,0 +1,68 @@
+
+#.
+#Destroy's processing machines
+[contraptions]
+
+	#.
+	#.
+	#Dynamo
+	[contraptions.dynamo]
+		#.
+		#Whether Dynamos can charge multiple Item Stacks at once.
+		dynamoBulkCharging = true
+
+	#.
+	#Vat
+	[contraptions.vat]
+		#.
+		#Whether Vats explode if the pressure exceeds the maximum of the weakest block.
+		vatExplodesAtHighPressure = true
+		#.
+		#How many times per tick reactions and thermodynamics are simulated.
+		#Increasing this may cause lag. Decreasing it can cause flickering in Vats.
+		#Range: > -2147483648
+		simulationLevel = 10
+
+#.
+#Change the effects of pollution on the world
+[pollution]
+	#.
+	#.
+	#Releasing chemicals increases pollution
+	enablePollution = true
+	#.
+	"Players in Creative mode are treated as if they are wearing Engineer's Goggles even if they are not" = true
+
+	#.
+	[pollution."Visual Changes"]
+		#.
+		#The sky and grass turn browner the higher the Smog level
+		smog = true
+		#.
+		#The rain turns greener the higher the Acid Rain level
+		rainColorChanges = true
+
+	#.
+	[pollution."Gameplay Changes"]
+		#.
+		#Villagers increase their prices the higher the Smog level
+		villagersIncreasePrices = true
+		#.
+		#Fishing yields fewer fish and more junk the higher the Smog level
+		fishingAffected = true
+		#.
+		#Mobs will be more likely to fail to breed the higher the Smog level
+		breedingAffected = true
+		#.
+		#Crops are less likely to grow the higher the Smog, Greenhouse Gas and Acid Rain levels
+		growingAffected = true
+		#.
+		#Rain is more likely to kill plants and grass the higher the Acid Rain level
+		rainBreaksBlocks = true
+		#.
+		#Outdoor temperature (which affects Distillation Towers and Vats) increases with Greenhouse Gas and Ozone Depletion levels
+		temperatureAffected = true
+		#.
+		#The likelihood of getting the cancer awareness pop-up from the sun increases with the Ozone Depletion level
+		ozoneDepletionGivesCancer = true
+
