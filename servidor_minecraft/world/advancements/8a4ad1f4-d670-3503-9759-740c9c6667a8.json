@@ -510,6 +510,18 @@
     },
     "done": false
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-17 05:04:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-04-17 04:57:16 +0000"
+    },
+    "done": true
+  },
   "silentgear:kachink1": {
     "criteria": {
       "kachink": "2025-04-17 04:16:49 +0000"

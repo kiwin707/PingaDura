@@ -519,6 +519,12 @@
     },
     "done": false
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-17 05:03:38 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup_lexicon": {
     "criteria": {
       "flower": "2025-04-17 03:48:45 +0000"

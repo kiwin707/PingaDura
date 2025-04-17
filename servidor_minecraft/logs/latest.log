@@ -1832,3 +1832,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 04:45:19.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Goat Man
 [17Apr2025 04:49:30.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wayan> k
 [17Apr2025 04:51:01.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Take Aim]
+[17Apr2025 04:57:16.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan has made the advancement [Crops of the Wild]
+[17Apr2025 05:01:06.386] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-152, y=80, z=32}
+[17Apr2025 05:03:38.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Isn't It Iron Pick]
+[17Apr2025 05:04:00.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan has made the advancement [Isn't It Iron Pick]
+[17Apr2025 05:05:10.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Zombie
+[17Apr2025 05:05:48.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Goat Man
