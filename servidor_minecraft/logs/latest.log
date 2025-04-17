@@ -1708,3 +1708,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 02:41:45.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Goat Man
 [17Apr2025 02:42:08.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Wolf
 [17Apr2025 02:44:58.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was killed by Witch using magic
+[17Apr2025 02:45:51.897] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LEMONZX[/127.115.23.118:52435] logged in with entity id 24090 at (18.5, 87.0, -41.5)
+[17Apr2025 02:45:51.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX joined the game
+[17Apr2025 02:45:52.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX has made the advancement [Ice and Fire]
+[17Apr2025 02:45:53.171] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 119c8b25-99ca-3cb8-80b7-b033aceb9fa2 was loaded
+[17Apr2025 02:46:52.950] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sofidi lost connection: Disconnected
+[17Apr2025 02:46:52.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi left the game
+[17Apr2025 02:46:52.950] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b33e39b9-e22d-30f3-8ae9-b591527cf2b9 was unloaded
+[17Apr2025 02:46:59.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan has made the advancement [Sweet Dreams]
+[17Apr2025 02:47:02.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LEMONZX lost connection: Disconnected
+[17Apr2025 02:47:02.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX left the game
+[17Apr2025 02:47:02.697] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 119c8b25-99ca-3cb8-80b7-b033aceb9fa2 was unloaded
+[17Apr2025 02:47:17.866] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LEMONZX[/127.115.23.118:42591] logged in with entity id 24395 at (153.71682342809223, 104.0, -62.72706413533317)
+[17Apr2025 02:47:17.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX joined the game
+[17Apr2025 02:47:18.346] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 119c8b25-99ca-3cb8-80b7-b033aceb9fa2 was loaded
+[17Apr2025 02:47:25.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sofidi[/127.192.183.189:54823] logged in with entity id 24410 at (145.66651980194496, 114.0, -83.69999998807907)
+[17Apr2025 02:47:25.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi joined the game
+[17Apr2025 02:47:26.338] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b33e39b9-e22d-30f3-8ae9-b591527cf2b9 was loaded
+[17Apr2025 02:48:53.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sofidi moved too quickly! 10.088395125316538,-1.0,0.9068627495802417
