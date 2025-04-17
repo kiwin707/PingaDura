@@ -1841,3 +1841,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 05:10:24.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Diamonds!]
 [17Apr2025 05:10:35.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan has made the advancement [Diamonds!]
 [17Apr2025 05:16:36.434] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=51, y=99, z=74}
+[17Apr2025 05:20:22.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Ice Bucket Challenge]
+[17Apr2025 05:22:08.194] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiwin lost connection: Disconnected
+[17Apr2025 05:22:08.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin left the game
+[17Apr2025 05:22:08.195] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cbed6b62-2cfc-3c05-b6c5-43bf236dcd2a was unloaded
+[17Apr2025 05:22:22.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiwin[/127.133.96.124:39625] logged in with entity id 66316 at (85.6129967052083, 89.0, 43.86613910100036)
+[17Apr2025 05:22:22.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin joined the game
+[17Apr2025 05:22:23.340] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cbed6b62-2cfc-3c05-b6c5-43bf236dcd2a was loaded
+[17Apr2025 05:23:06.486] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=128, y=93, z=64}
+[17Apr2025 05:27:00.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Hunt and Gather]

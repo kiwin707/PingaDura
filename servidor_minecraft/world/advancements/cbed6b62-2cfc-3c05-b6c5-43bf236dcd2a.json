@@ -444,6 +444,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-17 03:23:47 +0000",
       "minecraft:skeleton": "2025-04-17 02:35:09 +0000",
+      "minecraft:spider": "2025-04-17 05:21:18 +0000",
       "minecraft:creeper": "2025-04-17 04:18:28 +0000",
       "minecraft:zombie": "2025-04-17 02:02:54 +0000"
     },
@@ -495,45 +496,9 @@
     },
     "done": true
   },
-  "botania:challenge/root": {
-    "criteria": {
-      "flower": "2025-04-17 03:48:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-04-17 03:24:22 +0000"
-    },
-    "done": true
-  },
-  "botania:main/root": {
-    "criteria": {
-      "flower": "2025-04-17 03:48:45 +0000"
-    },
-    "done": true
-  },
-  "silentgear:nether_plants": {
-    "criteria": {
-      "sapling": "2025-04-17 04:14:00 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-04-17 05:03:38 +0000"
-    },
-    "done": true
-  },
-  "botania:main/flower_pickup_lexicon": {
-    "criteria": {
-      "flower": "2025-04-17 03:48:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-04-17 04:51:01 +0000"
     },
     "done": true
   },
@@ -543,15 +508,21 @@
     },
     "done": true
   },
-  "silentgear:template_board": {
+  "botania:challenge/root": {
     "criteria": {
-      "get_item": "2025-04-17 04:05:00 +0000"
+      "flower": "2025-04-17 03:48:45 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "botania:main/root": {
     "criteria": {
-      "diamond": "2025-04-17 05:10:24 +0000"
+      "flower": "2025-04-17 03:48:45 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-04-17 03:48:45 +0000"
     },
     "done": true
   },
@@ -564,6 +535,42 @@
   "botania:main/apothecary_pickup": {
     "criteria": {
       "apothecary": "2025-04-17 04:04:32 +0000"
+    },
+    "done": true
+  },
+  "silentgear:template_board": {
+    "criteria": {
+      "get_item": "2025-04-17 04:05:00 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "sapling": "2025-04-17 04:14:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-17 04:51:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-17 05:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-17 05:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-17 05:20:22 +0000"
     },
     "done": true
   },
