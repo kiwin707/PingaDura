@@ -1726,3 +1726,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 02:47:25.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi joined the game
 [17Apr2025 02:47:26.338] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b33e39b9-e22d-30f3-8ae9-b591527cf2b9 was loaded
 [17Apr2025 02:48:53.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sofidi moved too quickly! 10.088395125316538,-1.0,0.9068627495802417
+[17Apr2025 02:57:39.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi has made the advancement [Acquire Hardware]
+[17Apr2025 02:57:48.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX has made the advancement [Sweet Dreams]
+[17Apr2025 02:57:58.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sofidi> zzzzzzzzzzzzzzzzzzz'
+[17Apr2025 02:58:18.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX has made the advancement [Stone Age]
+[17Apr2025 02:58:41.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sofidi lost connection: Timed out
+[17Apr2025 02:58:42.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi left the game
+[17Apr2025 02:58:42.000] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b33e39b9-e22d-30f3-8ae9-b591527cf2b9 was unloaded
+[17Apr2025 02:58:56.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX has made the advancement [Getting an Upgrade]
+[17Apr2025 03:00:12.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sofidi[/127.192.183.189:33385] logged in with entity id 29339 at (90.41138051344026, 94.0, 37.314419611928024)
+[17Apr2025 03:00:12.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi joined the game
+[17Apr2025 03:00:13.078] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b33e39b9-e22d-30f3-8ae9-b591527cf2b9 was loaded
+[17Apr2025 03:02:10.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=160, y=91, z=-34} BlockPos{x=161, y=90, z=-35}
+[17Apr2025 03:02:13.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=160, y=91, z=-33} BlockPos{x=159, y=89, z=-33}
+[17Apr2025 03:02:34.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=147, y=86, z=-26} BlockPos{x=148, y=86, z=-28}
+[17Apr2025 03:02:34.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=147, y=86, z=-26} BlockPos{x=148, y=86, z=-28}
+[17Apr2025 03:02:39.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=88, z=-12} BlockPos{x=154, y=86, z=-12}
+[17Apr2025 03:02:42.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=151, y=84, z=-9} BlockPos{x=153, y=85, z=-11}
+[17Apr2025 03:02:42.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=151, y=84, z=-9} BlockPos{x=153, y=85, z=-11}
+[17Apr2025 03:02:44.970] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=151, y=86, z=-2} BlockPos{x=151, y=84, z=-1}
+[17Apr2025 03:02:45.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=152, y=86, z=2} BlockPos{x=153, y=84, z=3}
+[17Apr2025 03:04:41.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi was pricked to death
+[17Apr2025 03:04:43.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=151, y=86, z=-23} BlockPos{x=152, y=86, z=-23}

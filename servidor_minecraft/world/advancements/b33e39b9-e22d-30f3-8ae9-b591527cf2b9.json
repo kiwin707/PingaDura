@@ -447,5 +447,17 @@
     },
     "done": false
   },
+  "buildersdelight:root": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-17 02:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-17 02:57:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

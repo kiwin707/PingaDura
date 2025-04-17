@@ -470,6 +470,12 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-04-17 02:58:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-17 02:24:29 +0000"
