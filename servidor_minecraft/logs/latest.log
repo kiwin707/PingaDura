@@ -2457,3 +2457,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 14:44:49.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [18Apr2025 14:44:49.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [18Apr2025 14:45:43.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Acquire Hardware]
+[18Apr2025 15:01:58.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Not Today, Thank You]
+[18Apr2025 15:03:31.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiwin lost connection: Disconnected
+[18Apr2025 15:03:31.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin left the game
+[18Apr2025 15:03:31.066] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cbed6b62-2cfc-3c05-b6c5-43bf236dcd2a was unloaded
