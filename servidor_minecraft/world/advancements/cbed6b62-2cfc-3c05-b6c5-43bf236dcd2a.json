@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "buildersdelight:root": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-18 14:45:43 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/end": {
     "criteria": {
       "has_end_brick": "2025-04-18 14:38:33 +0000"
@@ -119,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-18 14:41:08 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2025-04-18 14:38:33 +0000"
@@ -155,11 +167,23 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-18 14:41:40 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:38:34 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-04-18 14:46:35 +0000"
+    },
+    "done": false
   },
   "mcwfences:recipes/sandstone": {
     "criteria": {
@@ -206,6 +230,12 @@
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-18 14:45:43 +0000"
     },
     "done": true
   },
