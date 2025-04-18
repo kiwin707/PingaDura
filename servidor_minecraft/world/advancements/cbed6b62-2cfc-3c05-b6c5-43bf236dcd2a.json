@@ -471,5 +471,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-18 16:08:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

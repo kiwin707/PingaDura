@@ -15818,3 +15818,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 15:59:41.549] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-292.24, y=13.00, z=436.55]]
 [18Apr2025 15:59:58.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 15:59:58.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 16:04:58.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 16:04:58.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 16:09:58.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 16:09:58.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 16:11:35.204] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-292.30, y=13.00, z=438.70]]
+[18Apr2025 16:11:35.553] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-292.30, y=13.00, z=438.70]]
+[18Apr2025 16:11:36.056] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-292.30, y=13.00, z=438.70]]
+[18Apr2025 16:11:37.009] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-292.30, y=13.00, z=438.70]]
+[18Apr2025 16:11:37.253] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-292.30, y=13.00, z=438.70]]
+[18Apr2025 16:11:37.902] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-292.30, y=13.00, z=438.70]]
+[18Apr2025 16:11:37.955] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-292.30, y=13.00, z=438.70]]
+[18Apr2025 16:11:47.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiwin lost connection: Disconnected
+[18Apr2025 16:11:47.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin left the game
+[18Apr2025 16:11:47.310] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cbed6b62-2cfc-3c05-b6c5-43bf236dcd2a was unloaded

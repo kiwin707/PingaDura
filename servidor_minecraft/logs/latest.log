@@ -1618,3 +1618,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 15:26:56.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Isn't It Iron Pick]
 [18Apr2025 15:47:50.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [First Age]
 [18Apr2025 15:53:54.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Sneak 100]
+[18Apr2025 16:11:47.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiwin lost connection: Disconnected
+[18Apr2025 16:11:47.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin left the game
+[18Apr2025 16:11:47.310] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cbed6b62-2cfc-3c05-b6c5-43bf236dcd2a was unloaded
