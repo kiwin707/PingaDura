@@ -436,9 +436,15 @@
     },
     "done": true
   },
-  "buildersdelight:root": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "has_iron_ingot": "2025-04-17 03:36:48 +0000"
+      "killed_by_something": "2025-04-17 03:27:35 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-04-17 03:33:48 +0000"
     },
     "done": true
   },
@@ -448,9 +454,9 @@
     },
     "done": false
   },
-  "create:copper": {
+  "buildersdelight:root": {
     "criteria": {
-      "0": "2025-04-17 03:33:48 +0000"
+      "has_iron_ingot": "2025-04-17 03:36:48 +0000"
     },
     "done": true
   },
@@ -460,15 +466,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-04-17 03:27:35 +0000"
-    },
-    "done": true
-  },
   "silentgear:kachink1": {
     "criteria": {
       "kachink": "2025-04-17 03:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-04-18 03:02:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-04-18 03:02:36 +0000"
     },
     "done": true
   },
