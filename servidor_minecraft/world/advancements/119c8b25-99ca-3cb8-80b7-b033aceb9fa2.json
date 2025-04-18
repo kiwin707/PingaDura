@@ -381,6 +381,8 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-17 03:16:28 +0000",
       "minecraft:snowy_plains": "2025-04-17 03:18:11 +0000",
+      "minecraft:stony_shore": "2025-04-18 03:11:27 +0000",
+      "minecraft:cold_ocean": "2025-04-18 03:11:53 +0000",
       "minecraft:forest": "2025-04-17 02:46:38 +0000",
       "minecraft:plains": "2025-04-17 02:45:53 +0000"
     },
@@ -481,6 +483,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-04-18 03:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-18 03:05:06 +0000"
     },
     "done": true
   },

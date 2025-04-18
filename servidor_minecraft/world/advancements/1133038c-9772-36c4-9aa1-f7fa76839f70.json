@@ -1,4 +1,46 @@
 {
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2025-04-18 02:45:03 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2025-04-18 02:45:03 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2025-04-18 02:45:03 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2025-04-18 02:45:03 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2025-04-18 02:45:03 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-04-18 02:45:03 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2025-04-18 02:45:03 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-04-18 02:45:04 +0000"
@@ -56,12 +98,6 @@
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-04-18 02:45:04 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/deepslate": {
-    "criteria": {
-      "has_deepslate": "2025-04-18 02:45:03 +0000"
     },
     "done": true
   },
@@ -155,21 +191,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-04-18 02:48:51 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-18 02:45:04 +0000"
-    },
-    "done": true
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-04-18 02:52:12 +0000"
     },
     "done": true
   },
@@ -203,12 +227,6 @@
     },
     "done": true
   },
-  "mcwfences:recipes/acacia": {
-    "criteria": {
-      "has_acacia": "2025-04-18 02:45:03 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-04-18 02:45:04 +0000"
@@ -227,21 +245,9 @@
     },
     "done": true
   },
-  "mcwfences:recipes/jungle": {
-    "criteria": {
-      "has_jungle": "2025-04-18 02:45:03 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/oak": {
     "criteria": {
       "has_oak": "2025-04-18 02:45:04 +0000"
-    },
-    "done": true
-  },
-  "endofherobrine:story/root": {
-    "criteria": {
-      "requirement": "2025-04-18 02:59:24 +0000"
     },
     "done": true
   },
@@ -263,12 +269,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-04-18 02:59:31 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-04-18 02:45:04 +0000"
@@ -278,18 +278,6 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2025-04-18 02:45:04 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/mud_brick": {
-    "criteria": {
-      "has_qq": "2025-04-18 02:45:03 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/mangrove": {
-    "criteria": {
-      "has_mangrove": "2025-04-18 02:45:03 +0000"
     },
     "done": true
   },
@@ -316,18 +304,6 @@
       "loot_bosses_a": "2025-04-18 02:45:04 +0000"
     },
     "done": true
-  },
-  "mcwfences:recipes/blackstone": {
-    "criteria": {
-      "has_blackstone": "2025-04-18 02:45:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2025-04-18 02:45:05 +0000"
-    },
-    "done": false
   },
   "comforts:hammock_pink": {
     "criteria": {
@@ -383,12 +359,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-04-18 02:48:51 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/nether": {
     "criteria": {
       "has_nether_brick": "2025-04-18 02:45:04 +0000"
@@ -401,15 +371,51 @@
     },
     "done": true
   },
-  "mcwfences:recipes/birch": {
-    "criteria": {
-      "has_birch": "2025-04-18 02:45:03 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_orange": {
     "criteria": {
       "has_the_recipe": "2025-04-18 02:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-04-18 02:45:05 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-04-18 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-18 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-04-18 02:52:12 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:story/root": {
+    "criteria": {
+      "requirement": "2025-04-18 02:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-04-18 02:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-18 03:03:27 +0000"
     },
     "done": true
   },
