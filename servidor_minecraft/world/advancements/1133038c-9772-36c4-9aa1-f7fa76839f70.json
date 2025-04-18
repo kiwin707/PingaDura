@@ -381,6 +381,7 @@
     "criteria": {
       "minecraft:river": "2025-04-18 03:26:06 +0000",
       "minecraft:stony_shore": "2025-04-18 03:29:39 +0000",
+      "minecraft:forest": "2025-04-18 03:44:41 +0000",
       "minecraft:plains": "2025-04-18 02:45:05 +0000"
     },
     "done": false
@@ -460,6 +461,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-18 03:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-18 03:48:50 +0000"
     },
     "done": true
   },

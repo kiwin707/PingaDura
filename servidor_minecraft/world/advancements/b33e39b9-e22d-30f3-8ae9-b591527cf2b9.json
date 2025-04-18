@@ -326,6 +326,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-17 02:24:25 +0000",
+      "minecraft:mushroom_fields": "2025-04-18 03:42:24 +0000",
       "minecraft:frozen_river": "2025-04-17 03:38:10 +0000",
       "minecraft:river": "2025-04-17 03:15:22 +0000",
       "minecraft:snowy_plains": "2025-04-17 02:24:07 +0000",
@@ -421,7 +422,8 @@
     "criteria": {
       "cooked_porkchop": "2025-04-17 03:15:56 +0000",
       "cooked_mutton": "2025-04-17 02:22:06 +0000",
-      "mutton": "2025-04-17 02:15:01 +0000"
+      "mutton": "2025-04-17 02:15:01 +0000",
+      "mushroom_stew": "2025-04-18 03:45:06 +0000"
     },
     "done": false
   },
@@ -494,6 +496,24 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2025-04-17 03:58:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "brown_mushroom": "2025-04-18 03:44:22 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-04-18 03:45:06 +0000"
+    },
+    "done": true
+  },
+  "idas:ancient_mines": {
+    "criteria": {
+      "in_ancient_mines": "2025-04-18 03:53:37 +0000"
     },
     "done": true
   },
