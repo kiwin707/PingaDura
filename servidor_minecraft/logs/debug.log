@@ -17707,3 +17707,52 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 07:17:02.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Zombie Villager
 [18Apr2025 07:18:39.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Bony King]
 [18Apr2025 07:19:09.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Nightmare Stalker
+[18Apr2025 07:20:28.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Scarlet Persecutor
+[18Apr2025 07:20:34.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Scarlet Persecutor
+[18Apr2025 07:20:45.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Skeleton Demoman
+[18Apr2025 07:20:52.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Sea Serpent
+[18Apr2025 07:20:53.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 07:20:53.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 07:21:20.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Missionary
+[18Apr2025 07:22:41.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Scarlet Persecutor
+[18Apr2025 07:23:37.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Decaying Zombie
+[18Apr2025 07:23:39.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Corpse Maggot
+[18Apr2025 07:24:12.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Scarlet Persecutor
+[18Apr2025 07:25:53.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 07:25:53.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 07:26:36.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Missionary
+[18Apr2025 07:27:09.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss hit the ground too hard
+[18Apr2025 07:28:57.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Zombie Bruiser
+[18Apr2025 07:29:02.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Zombie Bruiser
+[18Apr2025 07:30:06.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Decrepit Skeleton
+[18Apr2025 07:30:09.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Zombie Bruiser
+[18Apr2025 07:30:19.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Zombie Bruiser
+[18Apr2025 07:30:24.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Decrepit Skeleton
+[18Apr2025 07:30:33.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Zombie Bruiser
+[18Apr2025 07:30:39.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Missionary
+[18Apr2025 07:30:45.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Missionary
+[18Apr2025 07:30:53.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 07:30:53.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 07:30:54.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Zombie Bruiser
+[18Apr2025 07:31:35.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Zombie Bruiser
+[18Apr2025 07:31:58.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Zombie Villager
+[18Apr2025 07:32:08.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Decrepit Skeleton
+[18Apr2025 07:32:11.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Baby Skeleton
+[18Apr2025 07:32:16.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Zombie Bruiser
+[18Apr2025 07:32:48.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Missionary
+[18Apr2025 07:33:10.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Baby Skeleton
+[18Apr2025 07:33:22.467] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/34221, l='ServerLevel[world]', x=-330.08, y=-8.00, z=-957.30] died: Angry Creeper suffocated in a wall
+[18Apr2025 07:33:50.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Pig
+[18Apr2025 07:33:59.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Pig
+[18Apr2025 07:34:35.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Zombie Villager
+[18Apr2025 07:35:35.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Decrepit Skeleton
+[18Apr2025 07:35:36.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Zombie Villager
+[18Apr2025 07:35:51.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Zombie Villager
+[18Apr2025 07:35:53.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 07:35:53.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 07:36:09.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Baby Skeleton
+[18Apr2025 07:36:37.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Zombie Villager
+[18Apr2025 07:37:07.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Zombie Villager
+[18Apr2025 07:37:39.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Zombie Villager
+[18Apr2025 07:38:17.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Zombie Villager
+[18Apr2025 07:38:41.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Royal Zombie
