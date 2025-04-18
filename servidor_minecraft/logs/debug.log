@@ -15383,3 +15383,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 15:26:56.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Isn't It Iron Pick]
 [18Apr2025 15:29:59.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 15:29:59.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 15:33:54.344] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[18Apr2025 15:33:54.358] [Server thread/DEBUG] [mixin/]: Mixing structures.JigsawJunctionAccessor from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawJunction
+[18Apr2025 15:33:54.360] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[18Apr2025 15:33:54.361] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[18Apr2025 15:33:54.361] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[18Apr2025 15:33:54.362] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[18Apr2025 15:33:54.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[18Apr2025 15:33:54.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[18Apr2025 15:33:54.364] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[18Apr2025 15:33:54.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[18Apr2025 15:33:54.366] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[18Apr2025 15:33:54.492] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[18Apr2025 15:33:54.589] [Worker-Main-1/DEBUG] [mixin/]: Mixing structures.JigsawPlacementUnlimit from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[18Apr2025 15:33:56.399] [Worker-Main-1/DEBUG] [mixin/]: Mixing structures.BeardifierMixin from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Apr2025 15:33:56.405] [Worker-Main-1/DEBUG] [mixin/]: Mixing structures.BeardifierAccessor from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Apr2025 15:34:23.003] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-300.30, y=86.00, z=359.70]]
+[18Apr2025 15:34:25.265] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-300.62, y=85.00, z=360.41]]
+[18Apr2025 15:34:25.619] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-300.60, y=85.00, z=360.66]]
+[18Apr2025 15:34:25.657] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-300.58, y=85.00, z=360.94]]
+[18Apr2025 15:34:26.539] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-300.57, y=85.00, z=361.05]]
+[18Apr2025 15:34:27.494] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-300.55, y=84.00, z=361.61]]
+[18Apr2025 15:34:27.652] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-300.55, y=84.00, z=361.61]]
+[18Apr2025 15:34:27.808] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-300.55, y=84.00, z=361.61]]
+[18Apr2025 15:34:27.881] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-300.55, y=84.00, z=361.61]]
+[18Apr2025 15:34:29.560] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-300.55, y=83.00, z=362.53]]
+[18Apr2025 15:34:29.720] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-300.55, y=83.00, z=362.53]]
+[18Apr2025 15:34:33.123] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiwin'/198, l='ServerLevel[world]', x=-300.55, y=83.00, z=362.53]]
+[18Apr2025 15:34:59.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 15:34:59.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 15:39:58.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 15:39:58.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
