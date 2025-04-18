@@ -400,8 +400,11 @@
     "criteria": {
       "cooked_porkchop": "2025-04-17 03:16:06 +0000",
       "cooked_mutton": "2025-04-17 02:52:11 +0000",
+      "beef": "2025-04-18 04:03:43 +0000",
+      "apple": "2025-04-18 05:12:20 +0000",
       "bread": "2025-04-18 03:27:50 +0000",
-      "cooked_chicken": "2025-04-17 03:53:46 +0000"
+      "cooked_chicken": "2025-04-17 03:53:46 +0000",
+      "mushroom_stew": "2025-04-18 05:20:19 +0000"
     },
     "done": false
   },
@@ -479,7 +482,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-04-18 03:02:36 +0000"
+      "minecraft:pillager": "2025-04-18 04:02:34 +0000",
+      "minecraft:skeleton": "2025-04-18 03:02:36 +0000",
+      "minecraft:creeper": "2025-04-18 05:25:39 +0000",
+      "minecraft:vex": "2025-04-18 04:10:52 +0000",
+      "minecraft:zombie": "2025-04-18 05:16:32 +0000",
+      "minecraft:zombie_villager": "2025-04-18 05:23:09 +0000"
     },
     "done": false
   },
@@ -546,6 +554,48 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-04-18 03:45:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-04-18 04:15:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-04-18 05:16:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-04-18 05:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-18 05:53:15 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-04-18 05:53:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-04-18 05:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-18 06:06:31 +0000"
     },
     "done": true
   },

@@ -394,12 +394,6 @@
     },
     "done": false
   },
-  "endofherobrine:story/root": {
-    "criteria": {
-      "requirement": "2025-04-17 01:38:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-04-17 01:50:52 +0000"
@@ -448,7 +442,9 @@
       "minecraft:skeleton": "2025-04-17 02:35:09 +0000",
       "minecraft:spider": "2025-04-17 05:21:18 +0000",
       "minecraft:creeper": "2025-04-17 04:18:28 +0000",
-      "minecraft:zombie": "2025-04-17 02:02:54 +0000"
+      "minecraft:witch": "2025-04-18 05:41:40 +0000",
+      "minecraft:zombie": "2025-04-17 02:02:54 +0000",
+      "minecraft:zombie_villager": "2025-04-18 06:28:32 +0000"
     },
     "done": false
   },
@@ -467,7 +463,8 @@
       "apple": "2025-04-17 02:07:41 +0000",
       "mutton": "2025-04-17 03:06:49 +0000",
       "rotten_flesh": "2025-04-17 03:06:59 +0000",
-      "cooked_chicken": "2025-04-17 05:40:51 +0000"
+      "cooked_chicken": "2025-04-17 05:40:51 +0000",
+      "mushroom_stew": "2025-04-18 06:01:13 +0000"
     },
     "done": false
   },
@@ -587,7 +584,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-04-17 05:49:19 +0000"
+      "sugar_cane": "2025-04-17 05:49:19 +0000",
+      "potato": "2025-04-18 05:48:41 +0000",
+      "wheat": "2025-04-18 04:26:35 +0000"
     },
     "done": false
   },
@@ -603,11 +602,53 @@
     },
     "done": true
   },
-  "endofherobrine:story/exorcist": {
+  "evilcraft:first_age": {
     "criteria": {
-      "endofherobrine:cow": "2025-04-18 03:52:31 +0000"
+      "criteria_0": "2025-04-18 04:07:40 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-04-18 04:25:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-18 04:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-18 05:20:35 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2025-04-18 05:45:12 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-04-18 05:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-18 05:47:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-04-18 06:01:13 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -394,12 +394,6 @@
     },
     "done": false
   },
-  "endofherobrine:story/root": {
-    "criteria": {
-      "requirement": "2025-04-17 01:41:06 +0000"
-    },
-    "done": true
-  },
   "silentgear:root": {
     "criteria": {
       "get_item": "2025-04-17 01:42:57 +0000"
@@ -440,7 +434,9 @@
     "criteria": {
       "cooked_porkchop": "2025-04-17 02:01:33 +0000",
       "cooked_mutton": "2025-04-17 02:07:30 +0000",
+      "cooked_beef": "2025-04-18 06:28:26 +0000",
       "baked_potato": "2025-04-17 02:31:09 +0000",
+      "beef": "2025-04-18 05:40:16 +0000",
       "mutton": "2025-04-17 02:31:58 +0000",
       "bread": "2025-04-17 05:08:37 +0000",
       "rotten_flesh": "2025-04-17 01:52:52 +0000"
@@ -459,7 +455,8 @@
       "minecraft:skeleton": "2025-04-17 02:29:15 +0000",
       "minecraft:spider": "2025-04-17 05:56:03 +0000",
       "minecraft:creeper": "2025-04-17 03:13:08 +0000",
-      "minecraft:zombie": "2025-04-17 02:05:31 +0000"
+      "minecraft:zombie": "2025-04-17 02:05:31 +0000",
+      "minecraft:zombie_villager": "2025-04-18 04:19:06 +0000"
     },
     "done": false
   },
@@ -519,7 +516,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "wheat": "2025-04-17 03:47:31 +0000"
+      "sugar_cane": "2025-04-18 04:25:57 +0000",
+      "wheat": "2025-04-17 03:47:31 +0000",
+      "carrot": "2025-04-18 04:31:09 +0000"
     },
     "done": false
   },
@@ -550,6 +549,55 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-17 05:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-04-18 03:59:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-18 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-18 04:20:21 +0000"
+    },
+    "done": true
+  },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "flax_seeds": "2025-04-18 04:23:40 +0000",
+      "flax_fibers": "2025-04-18 05:08:28 +0000"
+    },
+    "done": false
+  },
+  "silentgear:template_board": {
+    "criteria": {
+      "get_item": "2025-04-18 04:30:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-18 06:04:36 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2025-04-18 06:30:09 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-04-18 06:30:09 +0000"
     },
     "done": true
   },

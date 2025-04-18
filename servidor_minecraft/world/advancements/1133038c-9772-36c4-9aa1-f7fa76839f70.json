@@ -379,9 +379,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-18 04:07:44 +0000",
+      "minecraft:mushroom_fields": "2025-04-18 04:13:34 +0000",
       "minecraft:river": "2025-04-18 03:26:06 +0000",
       "minecraft:stony_shore": "2025-04-18 03:29:39 +0000",
+      "minecraft:cold_ocean": "2025-04-18 04:00:45 +0000",
       "minecraft:forest": "2025-04-18 03:44:41 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-18 04:04:05 +0000",
       "minecraft:plains": "2025-04-18 02:45:05 +0000"
     },
     "done": false
@@ -401,12 +405,6 @@
   "create:copper": {
     "criteria": {
       "0": "2025-04-18 02:52:12 +0000"
-    },
-    "done": true
-  },
-  "endofherobrine:story/root": {
-    "criteria": {
-      "requirement": "2025-04-18 02:59:24 +0000"
     },
     "done": true
   },
@@ -454,7 +452,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-04-18 03:23:05 +0000"
+      "cooked_porkchop": "2025-04-18 03:23:05 +0000",
+      "bread": "2025-04-18 05:52:13 +0000",
+      "rotten_flesh": "2025-04-18 04:15:30 +0000"
     },
     "done": false
   },
@@ -467,6 +467,82 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-18 03:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-04-18 04:14:50 +0000",
+      "minecraft:skeleton": "2025-04-18 05:39:30 +0000",
+      "minecraft:creeper": "2025-04-18 05:44:29 +0000",
+      "minecraft:zombie": "2025-04-18 05:09:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:pillager": "2025-04-18 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "silentgear:template_board": {
+    "criteria": {
+      "get_item": "2025-04-18 04:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-18 04:26:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "red_mushroom": "2025-04-18 05:41:03 +0000",
+      "wheat": "2025-04-18 04:26:59 +0000"
+    },
+    "done": false
+  },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2025-04-18 04:34:32 +0000"
+    },
+    "done": true
+  },
+  "buildersdelight:root": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-18 04:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-18 04:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-18 05:02:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-04-18 05:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-18 05:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-18 05:24:26 +0000"
     },
     "done": true
   },
