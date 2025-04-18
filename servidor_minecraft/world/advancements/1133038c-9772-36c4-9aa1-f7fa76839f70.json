@@ -379,6 +379,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-04-18 03:26:06 +0000",
+      "minecraft:stony_shore": "2025-04-18 03:29:39 +0000",
       "minecraft:plains": "2025-04-18 02:45:05 +0000"
     },
     "done": false
@@ -416,6 +418,48 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-18 03:03:27 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-04-18 03:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-18 03:14:34 +0000"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-04-18 03:21:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-18 03:21:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-18 03:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-04-18 03:23:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-18 03:23:29 +0000"
     },
     "done": true
   },

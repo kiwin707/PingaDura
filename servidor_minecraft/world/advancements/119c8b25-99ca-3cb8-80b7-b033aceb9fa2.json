@@ -380,10 +380,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-17 03:16:28 +0000",
+      "minecraft:mushroom_fields": "2025-04-18 03:13:54 +0000",
       "minecraft:snowy_plains": "2025-04-17 03:18:11 +0000",
       "minecraft:stony_shore": "2025-04-18 03:11:27 +0000",
       "minecraft:cold_ocean": "2025-04-18 03:11:53 +0000",
       "minecraft:forest": "2025-04-17 02:46:38 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-18 03:13:09 +0000",
       "minecraft:plains": "2025-04-17 02:45:53 +0000"
     },
     "done": false
@@ -398,6 +400,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-17 03:16:06 +0000",
       "cooked_mutton": "2025-04-17 02:52:11 +0000",
+      "bread": "2025-04-18 03:27:50 +0000",
       "cooked_chicken": "2025-04-17 03:53:46 +0000"
     },
     "done": false
@@ -489,6 +492,54 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-04-18 03:05:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-04-18 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-04-18 03:16:29 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "rogue_eye": "2025-04-18 03:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-18 03:26:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-04-18 03:26:15 +0000"
+    },
+    "done": false
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-04-18 03:30:38 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-04-18 03:30:38 +0000"
+    },
+    "done": true
+  },
+  "idas:ancient_mines": {
+    "criteria": {
+      "in_ancient_mines": "2025-04-18 03:39:33 +0000"
     },
     "done": true
   },

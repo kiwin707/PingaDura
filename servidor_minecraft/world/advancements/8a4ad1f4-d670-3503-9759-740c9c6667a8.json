@@ -379,6 +379,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-18 03:21:57 +0000",
       "minecraft:frozen_river": "2025-04-17 02:48:13 +0000",
       "minecraft:river": "2025-04-17 02:48:07 +0000",
       "minecraft:snowy_plains": "2025-04-17 02:48:16 +0000",
