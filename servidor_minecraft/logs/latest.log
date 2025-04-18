@@ -1598,3 +1598,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 02:18:56.202] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a4ad1f4-d670-3503-9759-740c9c6667a8 was loaded
 [18Apr2025 02:23:06.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was doomed to fall by Zombie
 [18Apr2025 02:24:10.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=103, z=65} BlockPos{x=69, y=103, z=66}
+[18Apr2025 02:29:31.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=90, y=96, z=59} BlockPos{x=87, y=95, z=59}
+[18Apr2025 02:30:28.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=38, y=88, z=49} BlockPos{x=39, y=87, z=49}
+[18Apr2025 02:30:28.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=38, y=88, z=49} BlockPos{x=39, y=87, z=49}
+[18Apr2025 02:30:28.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=38, y=88, z=49} BlockPos{x=39, y=87, z=49}
+[18Apr2025 02:30:28.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=38, y=88, z=49} BlockPos{x=39, y=87, z=49}
+[18Apr2025 02:31:44.238] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=58, y=78, z=4}
+[18Apr2025 02:32:21.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=85, z=1} BlockPos{x=84, y=83, z=0}
+[18Apr2025 02:32:21.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=85, z=1} BlockPos{x=84, y=83, z=0}
