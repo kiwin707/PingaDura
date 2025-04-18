@@ -1628,3 +1628,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 17:35:09.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wayan lost connection: Disconnected
 [18Apr2025 17:35:09.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan left the game
 [18Apr2025 17:35:09.665] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a4ad1f4-d670-3503-9759-740c9c6667a8 was unloaded
+[18Apr2025 17:48:19.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wayan[/127.175.80.105:50623] logged in with entity id 8327 at (-256.2431332054462, 111.0, 292.62886175596316)
+[18Apr2025 17:48:19.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan joined the game
+[18Apr2025 17:48:20.257] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a4ad1f4-d670-3503-9759-740c9c6667a8 was loaded
+[18Apr2025 17:50:11.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan has made the advancement [Monster Hunter]
+[18Apr2025 17:53:46.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan hit the ground too hard
+[18Apr2025 17:54:07.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan has made the advancement [Stone Age]
