@@ -554,7 +554,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2025-04-18 03:59:28 +0000"
+      "minecraft:cow": "2025-04-18 03:59:28 +0000",
+      "minecraft:pig": "2025-04-18 07:08:11 +0000"
     },
     "done": false
   },
@@ -598,6 +599,12 @@
   "royalvariations:royal_variations_achievement": {
     "criteria": {
       "royal_variations_achievement": "2025-04-18 06:30:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-04-18 07:11:50 +0000"
     },
     "done": true
   },

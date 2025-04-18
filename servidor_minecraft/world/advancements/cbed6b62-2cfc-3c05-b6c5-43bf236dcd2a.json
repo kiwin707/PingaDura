@@ -381,6 +381,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-15 18:27:01 +0000",
       "minecraft:mushroom_fields": "2025-04-18 03:50:02 +0000",
+      "minecraft:deep_ocean": "2025-04-18 07:08:59 +0000",
       "minecraft:frozen_river": "2025-04-17 02:49:05 +0000",
       "minecraft:river": "2025-04-17 02:52:37 +0000",
       "minecraft:snowy_plains": "2025-04-15 18:27:02 +0000",
@@ -647,6 +648,24 @@
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-04-18 06:01:13 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:fart": {
+    "criteria": {
+      "criteria_0": "2025-04-18 07:07:29 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cryptic_eye": {
+    "criteria": {
+      "cryptic_eye": "2025-04-18 07:12:10 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "cryptic_eye": "2025-04-18 07:12:10 +0000"
     },
     "done": true
   },
