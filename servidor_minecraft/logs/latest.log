@@ -1621,3 +1621,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 16:11:47.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiwin lost connection: Disconnected
 [18Apr2025 16:11:47.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin left the game
 [18Apr2025 16:11:47.310] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cbed6b62-2cfc-3c05-b6c5-43bf236dcd2a was unloaded
+[18Apr2025 17:34:16.507] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wayan[/127.175.80.105:34097] logged in with entity id 7919 at (-268.5, 106.0, 278.5)
+[18Apr2025 17:34:16.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan joined the game
+[18Apr2025 17:34:17.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan has made the advancement [Ice and Fire]
+[18Apr2025 17:34:17.625] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a4ad1f4-d670-3503-9759-740c9c6667a8 was loaded
+[18Apr2025 17:35:09.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wayan lost connection: Disconnected
+[18Apr2025 17:35:09.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan left the game
+[18Apr2025 17:35:09.665] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a4ad1f4-d670-3503-9759-740c9c6667a8 was unloaded
