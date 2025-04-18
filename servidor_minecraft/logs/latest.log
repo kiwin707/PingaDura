@@ -1606,3 +1606,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 02:31:44.238] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=58, y=78, z=4}
 [18Apr2025 02:32:21.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=85, z=1} BlockPos{x=84, y=83, z=0}
 [18Apr2025 02:32:21.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=85, z=1} BlockPos{x=84, y=83, z=0}
+[18Apr2025 02:38:30.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Zombie
+[18Apr2025 02:40:09.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wayan lost connection: Disconnected
+[18Apr2025 02:40:09.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan left the game
+[18Apr2025 02:40:09.662] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a4ad1f4-d670-3503-9759-740c9c6667a8 was unloaded
+[18Apr2025 02:45:00.679] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sofidi[/127.39.115.148:59177] logged in with entity id 4237 at (81.15373482490219, 89.0, 40.847228515085085)
+[18Apr2025 02:45:00.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofidi joined the game
+[18Apr2025 02:45:01.508] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b33e39b9-e22d-30f3-8ae9-b591527cf2b9 was loaded
+[18Apr2025 02:45:03.848] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: krisssss[/127.23.18.64:49943] logged in with entity id 4317 at (18.5, 88.0, -40.5)
+[18Apr2025 02:45:03.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss joined the game
+[18Apr2025 02:45:04.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss has made the advancement [Ice and Fire]
+[18Apr2025 02:45:05.909] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1133038c-9772-36c4-9aa1-f7fa76839f70 was loaded
