@@ -1616,3 +1616,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 15:26:07.256] [Server thread/INFO] [structurize/]: New Server UUID 9cdf8d8b-9b2a-4df0-96c5-ae4416126f12
 [18Apr2025 15:26:08.659] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cbed6b62-2cfc-3c05-b6c5-43bf236dcd2a was loaded
 [18Apr2025 15:26:56.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Isn't It Iron Pick]
+[18Apr2025 15:47:50.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [First Age]
+[18Apr2025 15:53:54.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Sneak 100]
