@@ -17236,3 +17236,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 17:51:35.993] [Worker-Main-126/DEBUG] [ModernFix/]: Using cached upgraded version of idas:sunken_ship/sunken_ship
 [18Apr2025 17:53:46.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan hit the ground too hard
 [18Apr2025 17:54:07.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan has made the advancement [Stone Age]
+[18Apr2025 17:54:58.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 17:54:58.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 17:55:01.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan has made the advancement [Getting an Upgrade]
+[18Apr2025 17:59:58.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 17:59:58.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 18:03:25.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan has made the advancement [First Age]
