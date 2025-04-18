@@ -575,12 +575,6 @@
     },
     "done": true
   },
-  "ars_nouveau:warp_scroll": {
-    "criteria": {
-      "has_warp_scroll": "2025-04-17 06:14:35 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-04-17 05:27:00 +0000"
@@ -592,6 +586,12 @@
       "sugar_cane": "2025-04-17 05:49:19 +0000"
     },
     "done": false
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-04-17 06:14:35 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
