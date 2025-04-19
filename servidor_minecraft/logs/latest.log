@@ -1657,3 +1657,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Apr2025 22:08:49.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
 [19Apr2025 22:10:05.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss has made the advancement [The Parrots and the Bats]
 [19Apr2025 22:13:23.143] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/13842, l='ServerLevel[world]', x=-408.41, y=-54.45, z=691.23] died: Angry Creeper tried to swim in lava
+[19Apr2025 22:22:37.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sofi[/127.38.223.203:41355] logged in with entity id 18866 at (-424.36472058832277, 5.407395402364938, 519.5828151162839)
+[19Apr2025 22:22:37.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofi joined the game
+[19Apr2025 22:22:39.347] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc9def1d-1141-3394-bacd-3c86ea857fd5 was loaded
+[19Apr2025 22:22:45.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mr_atatuds[/127.237.176.60:33153] logged in with entity id 18986 at (-432.7739920047406, 62.581626763850274, 514.3028461374577)
+[19Apr2025 22:22:45.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mr_atatuds joined the game
+[19Apr2025 22:22:46.017] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6071fe99-6e79-3940-8821-6c0e33468bf2 was loaded
