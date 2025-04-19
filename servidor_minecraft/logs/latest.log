@@ -1648,3 +1648,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Apr2025 21:57:57.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Corpse Fly
 [19Apr2025 22:00:03.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan has made the advancement [First Age]
 [19Apr2025 22:01:37.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Zombie
+[19Apr2025 22:06:19.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiwin lost connection: Disconnected
+[19Apr2025 22:06:19.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin left the game
+[19Apr2025 22:06:19.915] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cbed6b62-2cfc-3c05-b6c5-43bf236dcd2a was unloaded
+[19Apr2025 22:06:35.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiwin[/127.91.111.75:42101] logged in with entity id 12329 at (-430.6553955370748, 11.0, 527.3007892440843)
+[19Apr2025 22:06:35.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin joined the game
+[19Apr2025 22:06:36.349] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cbed6b62-2cfc-3c05-b6c5-43bf236dcd2a was loaded
+[19Apr2025 22:08:49.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
+[19Apr2025 22:10:05.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss has made the advancement [The Parrots and the Bats]
+[19Apr2025 22:13:23.143] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/13842, l='ServerLevel[world]', x=-408.41, y=-54.45, z=691.23] died: Angry Creeper tried to swim in lava
