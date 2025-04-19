@@ -2103,3 +2103,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Apr2025 14:11:40.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <krisssss> pasa coordenadas
 [19Apr2025 14:12:01.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiwin> -591 486
 [19Apr2025 14:13:38.975] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5394a0f3[id=<null>,name=sofi,properties={},legacy=false] (/127.38.223.203:43859) lost connection: Disconnected
+[19Apr2025 14:15:32.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiwin> tenes cuero??
+[19Apr2025 14:15:38.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <krisssss> nope
+[19Apr2025 14:15:45.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiwin> ven
+[19Apr2025 14:16:32.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <krisssss> de onde salio esto? XDD
+[19Apr2025 14:16:38.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <krisssss> ta bonitp
+[19Apr2025 14:16:42.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiwin> lo construi yo
+[19Apr2025 14:16:44.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiwin> uwu
+[19Apr2025 14:17:00.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiwin> seras rumi de wayan en el 2do piso
+[19Apr2025 14:17:13.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <krisssss> y melissa?
+[19Apr2025 14:17:29.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiwin> esta viviendo en una mina
+[19Apr2025 14:17:31.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiwin> xd
+[19Apr2025 14:17:35.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <krisssss> XDDDD
+[19Apr2025 14:17:37.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <krisssss> ya
+[19Apr2025 14:17:48.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiwin> los 4 con limon viviran aca arriba xd
+[19Apr2025 14:18:01.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <krisssss> XDDDD
+[19Apr2025 14:19:30.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss has made the advancement [Sweet Dreams]
+[19Apr2025 14:19:41.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was blown up by Creeper
+[19Apr2025 14:20:10.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was blown up by Creeper
+[19Apr2025 14:21:41.560] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@390eda3d[id=<null>,name=sofi,properties={},legacy=false] (/127.38.223.203:49235) lost connection: Disconnected
+[19Apr2025 14:22:27.510] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sofi[/127.38.223.203:45139] logged in with entity id 9000 at (-217.5, 68.0, 423.5)
+[19Apr2025 14:22:27.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofi joined the game
+[19Apr2025 14:22:39.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Goat Man
+[19Apr2025 14:22:53.772] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc9def1d-1141-3394-bacd-3c86ea857fd5 was loaded
+[19Apr2025 14:23:29.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wayan[/127.175.80.105:34367] logged in with entity id 9853 at (-609.7384609790427, 77.0, 571.4417215345587)
+[19Apr2025 14:23:29.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan joined the game
+[19Apr2025 14:23:30.937] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a4ad1f4-d670-3503-9759-740c9c6667a8 was loaded
