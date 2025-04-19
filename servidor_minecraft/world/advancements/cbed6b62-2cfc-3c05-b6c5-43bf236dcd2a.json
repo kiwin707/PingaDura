@@ -522,6 +522,7 @@
       "cooked_cod": "2025-04-19 00:39:58 +0000",
       "bread": "2025-04-19 14:14:44 +0000",
       "golden_apple": "2025-04-19 20:33:58 +0000",
+      "rotten_flesh": "2025-04-19 21:56:54 +0000",
       "glow_berries": "2025-04-19 19:43:00 +0000",
       "cooked_salmon": "2025-04-19 02:27:32 +0000"
     },
@@ -677,6 +678,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-19 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-19 21:38:20 +0000"
     },
     "done": true
   },

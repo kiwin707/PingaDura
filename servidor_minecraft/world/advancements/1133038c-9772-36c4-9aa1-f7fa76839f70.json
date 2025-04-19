@@ -621,5 +621,11 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-04-19 21:42:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
