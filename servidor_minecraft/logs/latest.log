@@ -1795,3 +1795,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Apr2025 23:30:26.617] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
 [19Apr2025 23:31:52.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofi was killed by Kiwin using magic
 [19Apr2025 23:32:48.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by sofi
+[19Apr2025 23:38:38.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofi has made the advancement [Welcome To The Jungle]
+[19Apr2025 23:38:38.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofi has made the advancement [The Beginning of An Adventure]
+[19Apr2025 23:38:59.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sofi> zzzzzzzzzzzzzzzzz
+[19Apr2025 23:39:05.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <krisssss> ZZZZZZZZZZZZZZZZZZZZZ
+[19Apr2025 23:42:24.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofi has made the advancement [Hunt and Gather]
+[19Apr2025 23:46:28.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss has made the advancement [Explosive King]

@@ -651,5 +651,11 @@
     },
     "done": true
   },
+  "royalvariations:explosive_king": {
+    "criteria": {
+      "explosive_king": "2025-04-19 23:46:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

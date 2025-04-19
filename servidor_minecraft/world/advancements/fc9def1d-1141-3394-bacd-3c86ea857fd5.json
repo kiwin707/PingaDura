@@ -572,6 +572,12 @@
     },
     "done": true
   },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-04-19 23:38:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-04-19 23:28:20 +0000"
@@ -590,9 +596,21 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "rogue_eye": "2025-04-19 23:38:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "supplementaries:flax": "2025-04-19 23:19:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-04-19 23:42:24 +0000"
     },
     "done": true
   },
