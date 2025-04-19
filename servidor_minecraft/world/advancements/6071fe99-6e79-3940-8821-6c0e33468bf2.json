@@ -413,6 +413,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-19 23:14:25 +0000",
       "minecraft:skeleton": "2025-04-19 00:36:17 +0000",
       "minecraft:spider": "2025-04-18 23:45:41 +0000",
       "minecraft:silverfish": "2025-04-19 03:00:04 +0000",
@@ -435,6 +436,7 @@
       "apple": "2025-04-19 00:20:43 +0000",
       "spider_eye": "2025-04-18 23:45:50 +0000",
       "cooked_cod": "2025-04-19 01:00:04 +0000",
+      "bread": "2025-04-19 23:13:58 +0000",
       "glow_berries": "2025-04-19 20:41:48 +0000",
       "cooked_salmon": "2025-04-19 04:19:11 +0000"
     },
@@ -521,6 +523,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-04-19 03:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-19 23:14:25 +0000"
     },
     "done": true
   },

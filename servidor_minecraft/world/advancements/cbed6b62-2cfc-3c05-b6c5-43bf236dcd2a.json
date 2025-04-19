@@ -695,5 +695,11 @@
     },
     "done": true
   },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "fluffy_seeds": "2025-04-19 23:16:27 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
