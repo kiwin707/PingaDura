@@ -336,10 +336,12 @@
       "minecraft:lukewarm_ocean": "2025-04-18 23:58:20 +0000",
       "minecraft:river": "2025-04-19 03:23:04 +0000",
       "minecraft:swamp": "2025-04-18 23:50:20 +0000",
+      "minecraft:lush_caves": "2025-04-19 17:59:51 +0000",
       "minecraft:jungle": "2025-04-19 00:21:44 +0000",
       "minecraft:ocean": "2025-04-19 00:00:02 +0000",
       "minecraft:windswept_savanna": "2025-04-19 00:18:40 +0000",
-      "minecraft:old_growth_birch_forest": "2025-04-19 00:00:45 +0000"
+      "minecraft:old_growth_birch_forest": "2025-04-19 00:00:45 +0000",
+      "minecraft:savanna": "2025-04-19 17:12:42 +0000"
     },
     "done": false
   },
@@ -414,7 +416,8 @@
       "minecraft:skeleton": "2025-04-19 00:36:17 +0000",
       "minecraft:spider": "2025-04-18 23:45:41 +0000",
       "minecraft:silverfish": "2025-04-19 03:00:04 +0000",
-      "minecraft:zombie": "2025-04-18 23:47:49 +0000"
+      "minecraft:zombie": "2025-04-18 23:47:49 +0000",
+      "minecraft:drowned": "2025-04-19 19:30:12 +0000"
     },
     "done": false
   },
@@ -426,9 +429,13 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-04-19 17:19:55 +0000",
+      "porkchop": "2025-04-19 20:34:01 +0000",
+      "tropical_fish": "2025-04-19 21:00:14 +0000",
       "apple": "2025-04-19 00:20:43 +0000",
       "spider_eye": "2025-04-18 23:45:50 +0000",
       "cooked_cod": "2025-04-19 01:00:04 +0000",
+      "glow_berries": "2025-04-19 20:41:48 +0000",
       "cooked_salmon": "2025-04-19 04:19:11 +0000"
     },
     "done": false
