@@ -387,9 +387,12 @@
     "criteria": {
       "minecraft:beach": "2025-04-18 23:29:26 +0000",
       "minecraft:mangrove_swamp": "2025-04-19 00:14:20 +0000",
+      "minecraft:river": "2025-04-19 03:13:59 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-19 03:25:03 +0000",
       "minecraft:swamp": "2025-04-18 23:29:40 +0000",
       "minecraft:windswept_savanna": "2025-04-18 23:31:09 +0000",
-      "minecraft:old_growth_birch_forest": "2025-04-19 00:13:14 +0000"
+      "minecraft:old_growth_birch_forest": "2025-04-19 00:13:14 +0000",
+      "minecraft:savanna": "2025-04-19 03:15:31 +0000"
     },
     "done": false
   },
@@ -446,6 +449,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "tomato": "2025-04-19 03:44:01 +0000",
       "rice": "2025-04-19 00:04:26 +0000",
       "beetroot": "2025-04-18 23:55:52 +0000",
       "sugar_cane": "2025-04-18 23:41:38 +0000",
@@ -519,6 +523,60 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "salmon": "2025-04-19 02:14:27 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-04-19 03:31:44 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-04-19 03:31:44 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-04-19 03:31:44 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-04-19 03:31:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-04-19 04:33:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-04-19 03:45:02 +0000"
+    },
+    "done": false
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-04-19 04:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-19 03:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-19 03:45:02 +0000"
     },
     "done": true
   },
