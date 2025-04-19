@@ -462,7 +462,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "beetroot": "2025-04-18 23:53:53 +0000"
+      "salmon": "2025-04-19 02:16:00 +0000",
+      "beetroot": "2025-04-18 23:53:53 +0000",
+      "cod": "2025-04-19 02:27:56 +0000"
     },
     "done": false
   },
@@ -511,6 +513,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-04-19 00:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-04-19 02:14:27 +0000"
     },
     "done": true
   },
