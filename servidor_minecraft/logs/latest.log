@@ -1663,3 +1663,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Apr2025 22:22:45.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mr_atatuds[/127.237.176.60:33153] logged in with entity id 18986 at (-432.7739920047406, 62.581626763850274, 514.3028461374577)
 [19Apr2025 22:22:45.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mr_atatuds joined the game
 [19Apr2025 22:22:46.017] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6071fe99-6e79-3940-8821-6c0e33468bf2 was loaded
+[19Apr2025 22:26:46.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Ice Bucket Challenge]
+[19Apr2025 22:29:14.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofi was slain by Zombie
+[19Apr2025 22:29:14.955] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Apr2025 22:29:14.956] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[19Apr2025 22:29:14.956] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[19Apr2025 22:29:14.957] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[19Apr2025 22:29:14.958] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[19Apr2025 22:30:50.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiwin lost connection: Disconnected
+[19Apr2025 22:30:50.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin left the game
+[19Apr2025 22:30:50.852] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cbed6b62-2cfc-3c05-b6c5-43bf236dcd2a was unloaded
+[19Apr2025 22:31:05.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiwin[/127.91.111.75:59769] logged in with entity id 21896 at (-553.4190858526517, 77.6037636546968, 542.6999999880791)
+[19Apr2025 22:31:05.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin joined the game
+[19Apr2025 22:31:06.689] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cbed6b62-2cfc-3c05-b6c5-43bf236dcd2a was loaded
+[19Apr2025 22:36:12.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss has made the advancement [Ice Cubed]

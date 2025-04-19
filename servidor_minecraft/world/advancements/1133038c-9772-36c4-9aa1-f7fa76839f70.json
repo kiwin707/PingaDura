@@ -633,6 +633,12 @@
     },
     "done": false
   },
+  "simplyswords:frostfall": {
+    "criteria": {
+      "requirement": "2025-04-19 22:36:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-04-19 22:10:05 +0000"
