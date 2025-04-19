@@ -2088,3 +2088,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Apr2025 14:01:20.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin joined the game
 [19Apr2025 14:01:20.851] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cbed6b62-2cfc-3c05-b6c5-43bf236dcd2a was loaded
 [19Apr2025 14:02:57.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [Isn't It Iron Pick]
+[19Apr2025 14:04:25.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin was slain by Zombie
+[19Apr2025 14:06:36.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiwin has made the advancement [The Parrots and the Bats]
+[19Apr2025 14:09:54.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: krisssss[/127.23.18.64:37367] logged in with entity id 2886 at (-208.35527754187638, 66.0, 399.2413596690008)
+[19Apr2025 14:09:54.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss joined the game
+[19Apr2025 14:09:56.153] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1133038c-9772-36c4-9aa1-f7fa76839f70 was loaded
+[19Apr2025 14:10:02.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[19Apr2025 14:10:20.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3273ms or 65 ticks behind
+[19Apr2025 14:10:30.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiwin> nos mudamos
+[19Apr2025 14:10:42.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <krisssss> medicuenta
+[19Apr2025 14:10:44.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiwin> y con el nuevo mood se pueden hacer mejores armas de piedra
+[19Apr2025 14:10:51.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiwin> vente ya tenemos camas
+[19Apr2025 14:11:04.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <krisssss> DONDE ESTA MI ARCOOOOOO
+[19Apr2025 14:11:40.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <krisssss> pasa coordenadas
+[19Apr2025 14:12:01.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiwin> -591 486
+[19Apr2025 14:13:38.975] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5394a0f3[id=<null>,name=sofi,properties={},legacy=false] (/127.38.223.203:43859) lost connection: Disconnected
