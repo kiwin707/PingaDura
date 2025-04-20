@@ -1629,3 +1629,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 15:07:00.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sofi[/127.38.223.203:60039] logged in with entity id 1951 at (-552.754403733182, 77.5, 481.710657306924)
 [20Apr2025 15:07:00.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofi joined the game
 [20Apr2025 15:07:01.351] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc9def1d-1141-3394-bacd-3c86ea857fd5 was loaded
+[20Apr2025 15:21:20.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofi was slain by Dark Vortex
+[20Apr2025 15:24:12.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofi was blown up by Creeper
