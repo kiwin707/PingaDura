@@ -1678,3 +1678,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 17:16:56.101] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofidi[/127.38.223.203:42227] logged in with entity id 34154 at (-557.8515944175844, 91.0, 424.3159253580491)
 [20Apr2025 17:16:56.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi joined the game
 [20Apr2025 17:16:56.629] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was loaded
+[20Apr2025 17:27:25.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has made the advancement [Crops of the Wild]
+[20Apr2025 17:31:44.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofidi lost connection: Disconnected
+[20Apr2025 17:31:44.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi left the game
+[20Apr2025 17:31:44.075] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was unloaded
