@@ -1688,3 +1688,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 18:14:59.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wayan moved wrongly!
 [20Apr2025 18:15:05.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan hit the ground too hard whilst trying to escape Cow
 [20Apr2025 18:22:22.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[20Apr2025 18:27:26.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wayan moved too quickly! 0.19171056898619554,-7.1552320045165985,7.285072773382922
+[20Apr2025 18:27:27.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wayan lost connection: Timed out
+[20Apr2025 18:27:27.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan left the game
+[20Apr2025 18:27:27.437] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a4ad1f4-d670-3503-9759-740c9c6667a8 was unloaded
+[20Apr2025 18:33:38.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wayan[/127.175.80.105:59943] logged in with entity id 42667 at (-541.3563310712016, 35.92159999847412, 637.751610487429)
+[20Apr2025 18:33:39.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan joined the game
+[20Apr2025 18:33:39.567] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a4ad1f4-d670-3503-9759-740c9c6667a8 was loaded
