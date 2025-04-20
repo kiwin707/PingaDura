@@ -3015,3 +3015,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 23:01:30.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofidi lost connection: Disconnected
 [20Apr2025 23:01:30.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi left the game
 [20Apr2025 23:01:30.675] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was unloaded
+[20Apr2025 23:19:10.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was blown up by Creeper
+[20Apr2025 23:19:56.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Zombie
+[20Apr2025 23:20:38.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX was slain by Zombie
+[20Apr2025 23:20:38.735] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20Apr2025 23:20:38.736] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[20Apr2025 23:20:38.736] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[20Apr2025 23:20:38.736] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[20Apr2025 23:20:38.736] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[20Apr2025 23:20:58.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX was slain by Drowned
+[20Apr2025 23:21:59.600] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofidi[/127.38.223.203:56181] logged in with entity id 39977 at (-553.7294736880311, 91.0, 438.6393939473978)
+[20Apr2025 23:21:59.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi joined the game
+[20Apr2025 23:22:00.234] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was loaded
