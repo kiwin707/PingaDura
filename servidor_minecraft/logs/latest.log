@@ -1671,3 +1671,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 22:15:19.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofidi lost connection: Timed out
 [20Apr2025 22:15:19.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi left the game
 [20Apr2025 22:15:19.582] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was unloaded
+[20Apr2025 22:15:43.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LEMONZX> RECIEN LEO LOS MENSAJES XD
+[20Apr2025 22:15:52.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LEMONZX> ME DESOCUPO UNOS MIN
+[20Apr2025 22:15:58.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <krisssss> vava
+[20Apr2025 22:18:06.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofidi[/127.38.223.203:48169] logged in with entity id 10424 at (-535.3405490093221, 79.0, 561.3643320060576)
+[20Apr2025 22:18:06.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi joined the game
+[20Apr2025 22:18:08.935] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was loaded
+[20Apr2025 22:18:15.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss fell from a high place
+[20Apr2025 22:18:26.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX has made the advancement [Not Today, Thank You]
+[20Apr2025 22:19:10.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX has made the advancement [Voluntary Exile]
+[20Apr2025 22:19:32.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofidi> limon discooord
+[20Apr2025 22:19:35.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has made the advancement [Acquire Hardware]
+[20Apr2025 22:20:06.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LEMONZX> Termino mi Party y entro
+[20Apr2025 22:20:28.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krisssss lost connection: Disconnected
+[20Apr2025 22:20:28.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss left the game
+[20Apr2025 22:20:28.030] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1133038c-9772-36c4-9aa1-f7fa76839f70 was unloaded
+[20Apr2025 22:21:00.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: krisssss[/127.23.18.64:42837] logged in with entity id 11007 at (-555.6550759944695, 74.0, 515.2035106414083)
+[20Apr2025 22:21:00.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss joined the game
+[20Apr2025 22:21:00.619] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1133038c-9772-36c4-9aa1-f7fa76839f70 was loaded
+[20Apr2025 22:21:39.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofidi moved too quickly! 1.5050406167571282,0.9755759117863079,10.100999235292193
+[20Apr2025 22:21:44.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was shot by Skeleton
+[20Apr2025 22:21:51.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofidi lost connection: Timed out
+[20Apr2025 22:21:51.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi left the game
+[20Apr2025 22:21:51.729] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was unloaded
+[20Apr2025 22:24:45.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofidi[/127.38.223.203:37761] logged in with entity id 12866 at (-534.9476304906283, 79.0, 547.2453626866292)
+[20Apr2025 22:24:45.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi joined the game
+[20Apr2025 22:24:47.646] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was loaded

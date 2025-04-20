@@ -520,6 +520,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-20 22:18:27 +0000",
       "minecraft:skeleton": "2025-04-20 06:10:08 +0000",
       "minecraft:spider": "2025-04-20 04:31:39 +0000"
     },
@@ -534,6 +535,30 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-04-20 06:02:45 +0000"
+    },
+    "done": true
+  },
+  "buildersdelight:root": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-20 22:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-20 22:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-20 22:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-20 22:19:10 +0000"
     },
     "done": true
   },
