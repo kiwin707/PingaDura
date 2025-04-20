@@ -1640,3 +1640,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 15:42:34.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has made the advancement [Ice Cubed]
 [20Apr2025 15:42:38.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has made the advancement [Getting an Upgrade]
 [20Apr2025 15:43:31.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has made the advancement [Stone Age]
+[20Apr2025 15:44:26.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi was slain by Goat Man
+[20Apr2025 15:44:46.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has made the advancement [It Belongs in a Museum]
