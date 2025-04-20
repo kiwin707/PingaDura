@@ -391,6 +391,7 @@
       "minecraft:lukewarm_ocean": "2025-04-20 15:01:34 +0000",
       "minecraft:river": "2025-04-20 15:00:31 +0000",
       "minecraft:swamp": "2025-04-20 14:59:32 +0000",
+      "minecraft:lush_caves": "2025-04-20 23:34:59 +0000",
       "minecraft:ocean": "2025-04-20 22:02:57 +0000",
       "minecraft:windswept_savanna": "2025-04-20 14:59:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-20 22:01:49 +0000",
@@ -497,6 +498,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-20 17:12:55 +0000",
+      "minecraft:creeper": "2025-04-20 23:29:54 +0000",
+      "minecraft:cave_spider": "2025-04-20 23:29:45 +0000",
       "minecraft:zombie": "2025-04-20 23:26:11 +0000"
     },
     "done": false
@@ -576,6 +579,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-04-20 22:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-20 23:36:04 +0000"
     },
     "done": true
   },
