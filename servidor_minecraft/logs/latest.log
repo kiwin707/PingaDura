@@ -1696,3 +1696,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 18:33:39.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan joined the game
 [20Apr2025 18:33:39.567] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a4ad1f4-d670-3503-9759-740c9c6667a8 was loaded
 [20Apr2025 18:51:14.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan was slain by Cow
+[20Apr2025 19:09:16.560] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySeagull['Seagull'/52800, l='ServerLevel[world]', x=-15.86, y=72.57, z=352.91]
