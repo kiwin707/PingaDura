@@ -448,6 +448,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "tropical_fish": "2025-04-20 06:35:16 +0000",
       "apple": "2025-04-20 04:13:28 +0000",
       "bread": "2025-04-20 02:40:32 +0000",
       "salmon": "2025-04-20 04:12:41 +0000",
