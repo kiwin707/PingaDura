@@ -450,7 +450,8 @@
     "criteria": {
       "apple": "2025-04-20 04:13:28 +0000",
       "bread": "2025-04-20 02:40:32 +0000",
-      "salmon": "2025-04-20 04:12:41 +0000"
+      "salmon": "2025-04-20 04:12:41 +0000",
+      "melon_slice": "2025-04-20 06:10:00 +0000"
     },
     "done": false
   },
@@ -517,6 +518,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-20 06:10:08 +0000",
       "minecraft:spider": "2025-04-20 04:31:39 +0000"
     },
     "done": false
@@ -524,6 +526,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2025-04-20 04:31:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-20 06:02:45 +0000"
     },
     "done": true
   },
