@@ -1671,3 +1671,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 16:58:17.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-549, y=81, z=565} BlockPos{x=-550, y=79, z=565}
 [20Apr2025 17:08:39.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-527, y=80, z=544} BlockPos{x=-527, y=79, z=545}
 [20Apr2025 17:12:55.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has made the advancement [Monster Hunter]
+[20Apr2025 17:16:32.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofidi lost connection: Disconnected
+[20Apr2025 17:16:32.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi left the game
+[20Apr2025 17:16:32.127] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was unloaded
+[20Apr2025 17:16:32.177] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Apr2025 17:16:56.101] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofidi[/127.38.223.203:42227] logged in with entity id 34154 at (-557.8515944175844, 91.0, 424.3159253580491)
+[20Apr2025 17:16:56.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi joined the game
+[20Apr2025 17:16:56.629] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was loaded
