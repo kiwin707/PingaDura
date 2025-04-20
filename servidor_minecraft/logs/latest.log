@@ -1654,3 +1654,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 16:23:12.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofidi[/127.38.223.203:39275] logged in with entity id 21342 at (-581.1340095117754, 78.0, 488.5639628514109)
 [20Apr2025 16:23:12.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi joined the game
 [20Apr2025 16:23:14.118] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was loaded
+[20Apr2025 16:24:31.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi was slain by Door Knight
+[20Apr2025 16:24:31.807] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20Apr2025 16:24:31.807] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[20Apr2025 16:24:31.808] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[20Apr2025 16:24:31.808] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[20Apr2025 16:24:31.808] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[20Apr2025 16:24:31.870] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20Apr2025 16:24:31.870] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[20Apr2025 16:24:31.870] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[20Apr2025 16:24:31.870] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[20Apr2025 16:24:31.870] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[20Apr2025 16:25:19.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi was slain by Dread Hound
+[20Apr2025 16:27:25.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi was slain by Door Knight

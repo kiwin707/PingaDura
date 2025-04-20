@@ -412,15 +412,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/bred_all_animals": {
+  "simplyswords:frostfall": {
     "criteria": {
-      "minecraft:cow": "2025-04-20 16:02:50 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-04-20 15:43:31 +0000"
+      "requirement": "2025-04-20 15:42:34 +0000"
     },
     "done": true
   },
@@ -430,15 +424,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/use_cutting_board": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "cutting_board": "2025-04-20 15:55:06 +0000"
-    },
-    "done": true
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-04-20 16:12:31 +0000"
+      "get_stone": "2025-04-20 15:43:31 +0000"
     },
     "done": true
   },
@@ -448,9 +436,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "supplementaries:flax": "2025-04-20 15:58:13 +0000"
+      "cave_tablet": "2025-04-20 15:44:46 +0000"
     },
     "done": true
   },
@@ -460,21 +448,39 @@
     },
     "done": true
   },
-  "simplyswords:frostfall": {
+  "farmersdelight:main/use_cutting_board": {
     "criteria": {
-      "requirement": "2025-04-20 15:42:34 +0000"
+      "cutting_board": "2025-04-20 15:55:06 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_tablet": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "cave_tablet": "2025-04-20 15:44:46 +0000"
+      "supplementaries:flax": "2025-04-20 15:58:13 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-04-20 16:02:50 +0000"
+    },
+    "done": false
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-04-20 16:02:50 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-04-20 16:12:31 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-04-20 16:28:01 +0000"
     },
     "done": true
   },
