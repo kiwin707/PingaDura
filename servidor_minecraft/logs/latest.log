@@ -1682,3 +1682,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 17:31:44.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofidi lost connection: Disconnected
 [20Apr2025 17:31:44.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi left the game
 [20Apr2025 17:31:44.075] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was unloaded
+[20Apr2025 18:10:55.813] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wayan[/127.175.80.105:59561] logged in with entity id 38103 at (-536.2561465864643, 95.0, 431.463243873392)
+[20Apr2025 18:10:55.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan joined the game
+[20Apr2025 18:10:57.125] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a4ad1f4-d670-3503-9759-740c9c6667a8 was loaded
+[20Apr2025 18:14:59.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wayan moved wrongly!
+[20Apr2025 18:15:05.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wayan hit the ground too hard whilst trying to escape Cow
+[20Apr2025 18:22:22.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
