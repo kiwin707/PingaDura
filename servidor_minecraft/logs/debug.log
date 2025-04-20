@@ -16812,3 +16812,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 15:59:36.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Apr2025 16:02:50.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has made the advancement [The Parrots and the Bats]
 [20Apr2025 16:03:27.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi was slain by Cow
+[20Apr2025 16:04:36.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 16:04:36.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 16:05:08.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi was slain by Cow
+[20Apr2025 16:05:59.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi was slain by Cow
+[20Apr2025 16:09:36.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 16:09:36.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
