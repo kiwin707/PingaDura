@@ -645,12 +645,6 @@
     },
     "done": true
   },
-  "evilcraft:first_age": {
-    "criteria": {
-      "criteria_0": "2025-04-20 00:26:41 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-04-19 23:08:39 +0000"
@@ -666,6 +660,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-20 00:19:40 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-04-20 00:26:41 +0000"
     },
     "done": true
   },

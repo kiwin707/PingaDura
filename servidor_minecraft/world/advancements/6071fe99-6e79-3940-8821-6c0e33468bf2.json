@@ -544,5 +544,17 @@
     },
     "done": true
   },
+  "royalvariations:bony_king": {
+    "criteria": {
+      "bony_king": "2025-04-20 04:11:16 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-04-20 04:11:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

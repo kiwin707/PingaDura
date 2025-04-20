@@ -478,6 +478,7 @@
       "tropical_fish": "2025-04-19 15:46:46 +0000",
       "cooked_cod": "2025-04-19 14:59:54 +0000",
       "mutton": "2025-04-19 19:23:56 +0000",
+      "bread": "2025-04-20 02:35:27 +0000",
       "rotten_flesh": "2025-04-19 20:15:53 +0000",
       "salmon": "2025-04-19 02:16:00 +0000",
       "melon_slice": "2025-04-19 22:58:24 +0000",
@@ -674,6 +675,66 @@
   "evilcraft:first_age": {
     "criteria": {
       "criteria_0": "2025-04-19 22:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-20 01:05:41 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:bony_king": {
+    "criteria": {
+      "bony_king": "2025-04-20 01:49:17 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-04-20 02:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "silentgear:template_board": {
+    "criteria": {
+      "get_item": "2025-04-20 02:25:04 +0000"
+    },
+    "done": true
+  },
+  "silentgear:repair_kit": {
+    "criteria": {
+      "very_crude_repair_kit": "2025-04-20 02:26:58 +0000"
+    },
+    "done": true
+  },
+  "silentgear:standard_tools": {
+    "criteria": {
+      "pickaxe": "2025-04-20 02:28:00 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-04-20 02:47:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-04-20 02:50:55 +0000"
+    },
+    "done": true
+  },
+  "silentgear:kachink1": {
+    "criteria": {
+      "kachink": "2025-04-20 03:53:14 +0000"
     },
     "done": true
   },
