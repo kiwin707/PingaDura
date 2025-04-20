@@ -3011,3 +3011,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 22:56:12.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofidi[/127.38.223.203:39441] logged in with entity id 33131 at (-550.6110088098192, 63.08576431274414, 440.918218850847)
 [20Apr2025 22:56:12.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi joined the game
 [20Apr2025 22:56:12.789] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was loaded
+[20Apr2025 23:00:10.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Sofidi
+[20Apr2025 23:01:30.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofidi lost connection: Disconnected
+[20Apr2025 23:01:30.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi left the game
+[20Apr2025 23:01:30.675] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was unloaded
