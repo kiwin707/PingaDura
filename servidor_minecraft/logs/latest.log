@@ -1669,3 +1669,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 16:27:25.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi was slain by Door Knight
 [20Apr2025 16:36:31.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi was blown up by Creeper
 [20Apr2025 16:58:17.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-549, y=81, z=565} BlockPos{x=-550, y=79, z=565}
+[20Apr2025 17:08:39.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-527, y=80, z=544} BlockPos{x=-527, y=79, z=545}
+[20Apr2025 17:12:55.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has made the advancement [Monster Hunter]
