@@ -385,6 +385,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-04-20 22:49:35 +0000",
       "minecraft:beach": "2025-04-20 02:23:58 +0000",
       "minecraft:mangrove_swamp": "2025-04-20 02:25:23 +0000",
       "minecraft:river": "2025-04-20 02:26:37 +0000",
@@ -392,6 +393,7 @@
       "minecraft:swamp": "2025-04-20 02:25:17 +0000",
       "minecraft:lush_caves": "2025-04-20 02:38:10 +0000",
       "minecraft:jungle": "2025-04-20 02:26:14 +0000",
+      "minecraft:ocean": "2025-04-20 22:47:27 +0000",
       "minecraft:windswept_savanna": "2025-04-20 02:25:41 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-20 03:31:39 +0000",
       "minecraft:savanna": "2025-04-20 02:27:21 +0000"
@@ -559,6 +561,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-04-20 22:19:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-04-20 22:45:38 +0000"
     },
     "done": true
   },
