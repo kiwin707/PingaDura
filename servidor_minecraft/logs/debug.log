@@ -16804,3 +16804,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 15:44:46.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has made the advancement [It Belongs in a Museum]
 [20Apr2025 15:49:36.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Apr2025 15:49:36.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 15:54:36.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 15:54:36.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 15:55:04.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has made the advancement [Hunt and Gather]
+[20Apr2025 15:58:13.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has made the advancement [A Seedy Place]
+[20Apr2025 15:59:36.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 15:59:36.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 16:02:50.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has made the advancement [The Parrots and the Bats]
+[20Apr2025 16:03:27.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi was slain by Cow
