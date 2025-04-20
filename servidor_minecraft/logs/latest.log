@@ -3030,3 +3030,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 23:28:35.638] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
 [20Apr2025 23:28:54.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4049ms or 80 ticks behind
 [20Apr2025 23:36:04.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has made the advancement [Diamonds!]
+[20Apr2025 23:41:03.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <krisssss> voy a tener que irme
+[20Apr2025 23:41:09.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LEMONZX> Noooo
+[20Apr2025 23:41:10.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <krisssss> engo un problemita
+[20Apr2025 23:41:21.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <krisssss> de unos 30 llego
+[20Apr2025 23:41:22.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofidi> zzzzzzzzzzzzzz
+[20Apr2025 23:41:27.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LEMONZX> yap
+[20Apr2025 23:41:38.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krisssss lost connection: Disconnected
+[20Apr2025 23:41:38.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss left the game
+[20Apr2025 23:41:38.632] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1133038c-9772-36c4-9aa1-f7fa76839f70 was unloaded
+[20Apr2025 23:52:55.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofidi> zzzzzzzzzzzzzz
+[20Apr2025 23:52:57.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofidi> zzzzzzzzzzzzzzz
+[20Apr2025 23:53:01.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LEMONZX> zzzzzzzzz
+[20Apr2025 23:56:19.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofidi lost connection: Disconnected
+[20Apr2025 23:56:19.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi left the game
+[20Apr2025 23:56:19.271] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was unloaded
