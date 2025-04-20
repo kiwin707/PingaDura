@@ -1667,3 +1667,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 16:24:31.870] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
 [20Apr2025 16:25:19.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi was slain by Dread Hound
 [20Apr2025 16:27:25.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi was slain by Door Knight
+[20Apr2025 16:36:31.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi was blown up by Creeper
