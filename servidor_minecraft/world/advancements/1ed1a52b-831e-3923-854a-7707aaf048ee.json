@@ -1,13 +1,49 @@
 {
-  "comforts:sleeping_bag_light_blue": {
+  "mcwfences:recipes/dark_oak": {
     "criteria": {
-      "has_the_recipe": "2025-04-20 14:58:13 +0000"
+      "has_dark_oak": "2025-04-20 14:58:12 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/root": {
+  "mcwfences:recipes/spruce": {
     "criteria": {
-      "tick": "2025-04-20 14:58:14 +0000"
+      "has_spruce": "2025-04-20 14:58:12 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2025-04-20 14:58:12 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-04-20 14:58:12 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2025-04-20 14:58:12 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2025-04-20 14:58:12 +0000"
+    },
+    "done": true
+  },
+  "destroy:root": {
+    "criteria": {
+      "automatic": "2025-04-20 14:58:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-04-20 14:58:13 +0000"
     },
     "done": true
   },
@@ -38,12 +74,6 @@
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-04-20 14:58:13 +0000"
-    },
-    "done": true
-  },
-  "idas:idas_root": {
-    "criteria": {
-      "always": "2025-04-20 14:58:14 +0000"
     },
     "done": true
   },
@@ -89,18 +119,6 @@
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-04-20 14:58:14 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/dark_oak": {
-    "criteria": {
-      "has_dark_oak": "2025-04-20 14:58:12 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-20 14:58:13 +0000"
@@ -113,21 +131,9 @@
     },
     "done": true
   },
-  "mcwfences:recipes/spruce": {
-    "criteria": {
-      "has_spruce": "2025-04-20 14:58:12 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2025-04-20 14:58:13 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/crimson": {
-    "criteria": {
-      "has_crimson": "2025-04-20 14:58:12 +0000"
     },
     "done": true
   },
@@ -149,18 +155,6 @@
     },
     "done": true
   },
-  "create:root": {
-    "criteria": {
-      "0": "2025-04-20 14:58:12 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-04-20 15:03:00 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-20 14:58:13 +0000"
@@ -170,12 +164,6 @@
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2025-04-20 14:58:13 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2025-04-20 14:58:14 +0000"
     },
     "done": true
   },
@@ -227,12 +215,6 @@
     },
     "done": true
   },
-  "mcwfences:recipes/jungle": {
-    "criteria": {
-      "has_jungle": "2025-04-20 14:58:12 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/oak": {
     "criteria": {
       "has_oak": "2025-04-20 14:58:13 +0000"
@@ -248,12 +230,6 @@
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_the_recipe": "2025-04-20 14:58:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-04-20 15:04:16 +0000"
     },
     "done": true
   },
@@ -287,12 +263,6 @@
     },
     "done": true
   },
-  "mcwfences:recipes/warped": {
-    "criteria": {
-      "has_warped": "2025-04-20 14:58:12 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-20 14:58:13 +0000"
@@ -305,28 +275,11 @@
     },
     "done": true
   },
-  "bossominium:loot_bosses_a": {
-    "criteria": {
-      "loot_bosses_a": "2025-04-20 14:58:14 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2025-04-20 14:58:13 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:beach": "2025-04-20 14:58:15 +0000",
-      "minecraft:lukewarm_ocean": "2025-04-20 15:01:34 +0000",
-      "minecraft:river": "2025-04-20 15:00:31 +0000",
-      "minecraft:swamp": "2025-04-20 14:59:32 +0000",
-      "minecraft:windswept_savanna": "2025-04-20 14:59:52 +0000",
-      "minecraft:savanna": "2025-04-20 15:01:06 +0000"
-    },
-    "done": false
   },
   "comforts:hammock_pink": {
     "criteria": {
@@ -337,12 +290,6 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-04-20 14:58:13 +0000"
-    },
-    "done": true
-  },
-  "destroy:root": {
-    "criteria": {
-      "automatic": "2025-04-20 14:58:12 +0000"
     },
     "done": true
   },
@@ -364,27 +311,9 @@
     },
     "done": true
   },
-  "parcool:grant_parcool_guide": {
-    "criteria": {
-      "tick": "2025-04-20 14:58:14 +0000"
-    },
-    "done": true
-  },
-  "occultism:occultism/root": {
-    "criteria": {
-      "occultism_present": "2025-04-20 14:58:14 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-04-20 14:58:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-04-20 15:03:00 +0000"
     },
     "done": true
   },
@@ -409,6 +338,77 @@
   "comforts:hammock_orange": {
     "criteria": {
       "has_the_recipe": "2025-04-20 14:58:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-04-20 14:58:14 +0000"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2025-04-20 14:58:14 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-04-20 14:58:14 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-04-20 14:58:14 +0000"
+    },
+    "done": true
+  },
+  "bossominium:loot_bosses_a": {
+    "criteria": {
+      "loot_bosses_a": "2025-04-20 14:58:14 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-04-20 14:58:14 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2025-04-20 14:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-04-20 14:58:15 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-20 15:01:34 +0000",
+      "minecraft:river": "2025-04-20 15:00:31 +0000",
+      "minecraft:swamp": "2025-04-20 14:59:32 +0000",
+      "minecraft:windswept_savanna": "2025-04-20 14:59:52 +0000",
+      "minecraft:savanna": "2025-04-20 15:01:06 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-04-20 15:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-20 15:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-20 15:04:16 +0000"
     },
     "done": true
   },

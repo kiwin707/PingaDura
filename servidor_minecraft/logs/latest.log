@@ -1631,3 +1631,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 15:07:01.351] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc9def1d-1141-3394-bacd-3c86ea857fd5 was loaded
 [20Apr2025 15:21:20.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofi was slain by Dark Vortex
 [20Apr2025 15:24:12.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofi was blown up by Creeper
+[20Apr2025 15:36:28.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sofi lost connection: Disconnected
+[20Apr2025 15:36:28.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sofi left the game
+[20Apr2025 15:36:28.076] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc9def1d-1141-3394-bacd-3c86ea857fd5 was unloaded
+[20Apr2025 15:39:30.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofidi[/127.38.223.203:53203] logged in with entity id 9189 at (-579.5, 73.0, 486.5)
+[20Apr2025 15:39:30.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi joined the game
+[20Apr2025 15:39:32.711] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was loaded
+[20Apr2025 15:42:34.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has made the advancement [Ice Cubed]
+[20Apr2025 15:42:38.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has made the advancement [Getting an Upgrade]
+[20Apr2025 15:43:31.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has made the advancement [Stone Age]
