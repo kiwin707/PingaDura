@@ -19906,3 +19906,47 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 19:13:11.020] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-204.74, y=67.00, z=403.70]]
 [20Apr2025 19:14:38.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Apr2025 19:14:38.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 19:19:38.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 19:19:38.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 19:24:38.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 19:24:38.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 19:26:05.370] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-250.50, y=63.00, z=374.93]]
+[20Apr2025 19:26:05.918] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-251.22, y=63.00, z=376.00]]
+[20Apr2025 19:26:09.170] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-252.55, y=63.00, z=378.41]]
+[20Apr2025 19:26:10.069] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-253.32, y=63.00, z=378.19]]
+[20Apr2025 19:26:12.220] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-252.84, y=63.00, z=381.14]]
+[20Apr2025 19:26:13.919] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-257.32, y=63.00, z=384.41]]
+[20Apr2025 19:26:14.470] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-259.32, y=63.00, z=385.63]]
+[20Apr2025 19:26:14.869] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-260.97, y=63.00, z=385.30]]
+[20Apr2025 19:26:16.669] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-261.80, y=63.00, z=381.21]]
+[20Apr2025 19:26:18.519] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-261.29, y=63.00, z=379.40]]
+[20Apr2025 19:26:19.219] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-260.12, y=63.00, z=381.27]]
+[20Apr2025 19:26:19.369] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-260.42, y=63.00, z=381.01]]
+[20Apr2025 19:26:19.569] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-261.07, y=63.00, z=380.60]]
+[20Apr2025 19:26:21.820] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-265.55, y=63.00, z=381.64]]
+[20Apr2025 19:26:21.869] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-265.69, y=63.00, z=381.79]]
+[20Apr2025 19:26:21.919] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-265.83, y=63.00, z=381.95]]
+[20Apr2025 19:26:22.169] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-266.55, y=64.00, z=382.74]]
+[20Apr2025 19:26:22.569] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-267.65, y=64.00, z=383.76]]
+[20Apr2025 19:26:24.520] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-274.96, y=63.00, z=382.99]]
+[20Apr2025 19:26:25.319] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-277.19, y=62.14, z=383.42]]
+[20Apr2025 19:26:25.919] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-279.78, y=62.06, z=383.23]]
+[20Apr2025 19:26:26.569] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-284.73, y=62.07, z=383.25]]
+[20Apr2025 19:26:37.420] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-361.16, y=62.07, z=419.04]]
+[20Apr2025 19:26:38.019] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-365.48, y=62.07, z=421.13]]
+[20Apr2025 19:26:38.069] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-366.20, y=62.07, z=421.48]]
+[20Apr2025 19:26:40.819] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-385.65, y=62.07, z=430.88]]
+[20Apr2025 19:26:42.419] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-397.70, y=62.07, z=436.20]]
+[20Apr2025 19:26:44.217] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-411.45, y=62.07, z=438.48]]
+[20Apr2025 19:26:44.368] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-412.64, y=62.07, z=438.61]]
+[20Apr2025 19:26:45.669] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-423.38, y=62.07, z=439.74]]
+[20Apr2025 19:26:50.718] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-463.58, y=62.07, z=443.81]]
+[20Apr2025 19:26:51.468] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-469.15, y=62.07, z=444.39]]
+[20Apr2025 19:26:51.867] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-472.28, y=62.07, z=444.96]]
+[20Apr2025 19:26:52.969] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-480.91, y=62.07, z=448.03]]
+[20Apr2025 19:26:54.518] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-492.13, y=62.07, z=453.27]]
+[20Apr2025 19:26:54.718] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Wayan'/42667, l='ServerLevel[world]', x=-493.58, y=62.07, z=453.96]]
+[20Apr2025 19:29:38.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 19:29:38.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 19:34:38.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 19:34:38.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
