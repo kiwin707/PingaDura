@@ -387,6 +387,7 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-04-20 22:03:55 +0000",
       "minecraft:beach": "2025-04-20 14:58:15 +0000",
+      "minecraft:mangrove_swamp": "2025-04-20 22:29:59 +0000",
       "minecraft:lukewarm_ocean": "2025-04-20 15:01:34 +0000",
       "minecraft:river": "2025-04-20 15:00:31 +0000",
       "minecraft:swamp": "2025-04-20 14:59:32 +0000",
@@ -550,6 +551,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-20 22:19:35 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2025-04-20 22:31:27 +0000"
     },
     "done": true
   },

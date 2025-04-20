@@ -1697,3 +1697,37 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 22:24:45.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofidi[/127.38.223.203:37761] logged in with entity id 12866 at (-534.9476304906283, 79.0, 547.2453626866292)
 [20Apr2025 22:24:45.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi joined the game
 [20Apr2025 22:24:47.646] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was loaded
+[20Apr2025 22:27:42.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Sofidi
+[20Apr2025 22:29:45.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LEMONZX lost connection: Disconnected
+[20Apr2025 22:29:45.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX left the game
+[20Apr2025 22:29:45.102] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 119c8b25-99ca-3cb8-80b7-b033aceb9fa2 was unloaded
+[20Apr2025 22:31:27.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has completed the challenge [Cannibal]
+[20Apr2025 22:32:17.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved too quickly! 10.246884912989927,0.0,1.7780031681345463
+[20Apr2025 22:32:17.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved too quickly! 10.64099587118201,0.0,1.846387905370534
+[20Apr2025 22:32:17.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved too quickly! 11.035106829374097,0.0,1.914772642606522
+[20Apr2025 22:32:17.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved too quickly! 11.429217787566188,0.0,1.9831573798425097
+[20Apr2025 22:32:17.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved too quickly! 11.823328745758282,0.0,2.0515421170784975
+[20Apr2025 22:32:17.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved too quickly! 12.21743970395038,0.0,2.1199268543144854
+[20Apr2025 22:32:17.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved too quickly! 12.611550662142477,0.0,2.188311591550473
+[20Apr2025 22:32:17.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved too quickly! 13.005661620334578,0.0,2.256696328786461
+[20Apr2025 22:32:17.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved too quickly! 13.39977257852668,0.0,2.325081066022449
+[20Apr2025 22:32:17.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved too quickly! 13.793883536718784,0.0,2.3934658032584366
+[20Apr2025 22:32:17.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved too quickly! 14.187994494910889,0.0,2.4618505404944244
+[20Apr2025 22:32:17.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved too quickly! 14.582105453102997,0.0,2.5302352777304122
+[20Apr2025 22:32:17.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved too quickly! 14.976216411295106,0.0,2.5986200149664
+[20Apr2025 22:32:17.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved too quickly! 15.370327369487214,0.0,2.667004752202388
+[20Apr2025 22:32:17.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved too quickly! 15.764438327679326,0.0,2.7353894894383757
+[20Apr2025 22:32:18.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved too quickly! 10.246884912994737,0.0,1.7780031681356832
+[20Apr2025 22:32:18.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved too quickly! 10.640995871186856,0.0,1.846387905371671
+[20Apr2025 22:32:18.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved too quickly! 11.035106829378975,0.0,1.9147726426076588
+[20Apr2025 22:32:25.520] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@c875f23[id=<null>,name=LEMONZX,properties={},legacy=false] (/127.115.23.118:57339): Took too long to log in
+[20Apr2025 22:32:25.520] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c875f23[id=<null>,name=LEMONZX,properties={},legacy=false] (/127.115.23.118:57339) lost connection: Took too long to log in
+[20Apr2025 22:32:25.571] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Apr2025 22:33:03.875] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1bd88888[id=<null>,name=LEMONZX,properties={},legacy=false] (/127.115.23.118:53581): Took too long to log in
+[20Apr2025 22:33:03.876] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1bd88888[id=<null>,name=LEMONZX,properties={},legacy=false] (/127.115.23.118:53581) lost connection: Took too long to log in
+[20Apr2025 22:33:03.921] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Apr2025 22:33:16.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi was slain by Sea Serpent
+[20Apr2025 22:33:19.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Sea Serpent
+[20Apr2025 22:34:42.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LEMONZX[/127.115.23.118:57811] logged in with entity id 17532 at (-578.4830648529181, 72.0, 492.8233117012811)
+[20Apr2025 22:34:42.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX joined the game
+[20Apr2025 22:34:42.700] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 119c8b25-99ca-3cb8-80b7-b033aceb9fa2 was loaded
