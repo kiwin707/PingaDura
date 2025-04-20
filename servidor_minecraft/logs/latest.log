@@ -1648,3 +1648,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 16:03:27.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi was slain by Cow
 [20Apr2025 16:05:08.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi was slain by Cow
 [20Apr2025 16:05:59.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi was slain by Cow
+[20Apr2025 16:18:45.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofidi lost connection: Disconnected
+[20Apr2025 16:18:45.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi left the game
+[20Apr2025 16:18:45.531] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was unloaded
+[20Apr2025 16:23:12.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofidi[/127.38.223.203:39275] logged in with entity id 21342 at (-581.1340095117754, 78.0, 488.5639628514109)
+[20Apr2025 16:23:12.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi joined the game
+[20Apr2025 16:23:14.118] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was loaded
