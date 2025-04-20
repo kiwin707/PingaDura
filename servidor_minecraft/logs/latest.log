@@ -1636,3 +1636,38 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 22:03:27.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved wrongly! 0.3314826941418403
 [20Apr2025 22:03:27.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved wrongly! 0.615404203331849
 [20Apr2025 22:03:27.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sofidi) moved wrongly! 0.8130181920581379
+[20Apr2025 22:06:25.678] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@24a6db68[id=<null>,name=LEMONZX,properties={},legacy=false] (/127.115.23.118:60271): Took too long to log in
+[20Apr2025 22:06:25.684] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24a6db68[id=<null>,name=LEMONZX,properties={},legacy=false] (/127.115.23.118:60271) lost connection: Took too long to log in
+[20Apr2025 22:06:25.743] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Apr2025 22:06:55.753] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 22:06:57.551] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LEMONZX[/127.115.23.118:35307] logged in with entity id 5652 at (-580.9546488565242, 81.0, 485.9632843440862)
+[20Apr2025 22:06:57.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX joined the game
+[20Apr2025 22:06:59.423] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 119c8b25-99ca-3cb8-80b7-b033aceb9fa2 was loaded
+[20Apr2025 22:07:00.010] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 22:07:51.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Sea Serpent
+[20Apr2025 22:08:14.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi was slain by Sea Serpent
+[20Apr2025 22:08:38.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krisssss lost connection: Disconnected
+[20Apr2025 22:08:38.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss left the game
+[20Apr2025 22:08:38.879] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1133038c-9772-36c4-9aa1-f7fa76839f70 was unloaded
+[20Apr2025 22:09:18.063] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: krisssss[/127.23.18.64:53369] logged in with entity id 7723 at (-578.3659979776585, 81.0, 487.92500349665966)
+[20Apr2025 22:09:18.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss joined the game
+[20Apr2025 22:09:18.584] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1133038c-9772-36c4-9aa1-f7fa76839f70 was loaded
+[20Apr2025 22:11:27.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <krisssss> gracia
+[20Apr2025 22:12:15.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <krisssss> lemonnnn quieres ir con nosotras a pelear con dragones y sirenas? asoijioajsd
+[20Apr2025 22:12:16.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofidi lost connection: Disconnected
+[20Apr2025 22:12:16.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi left the game
+[20Apr2025 22:12:16.537] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was unloaded
+[20Apr2025 22:12:16.629] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Apr2025 22:12:39.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofidi[/127.38.223.203:39083] logged in with entity id 8583 at (-319.040735268157, 66.0, 442.0277302792186)
+[20Apr2025 22:12:39.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi joined the game
+[20Apr2025 22:12:39.877] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was loaded
+[20Apr2025 22:13:09.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofidi lost connection: Timed out
+[20Apr2025 22:13:09.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi left the game
+[20Apr2025 22:13:09.445] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was unloaded
+[20Apr2025 22:13:34.308] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofidi[/127.38.223.203:42981] logged in with entity id 8910 at (-319.040735268157, 66.0, 442.0277302792186)
+[20Apr2025 22:13:34.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi joined the game
+[20Apr2025 22:13:34.807] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was loaded
+[20Apr2025 22:14:52.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX has made the advancement [Acquire Hardware]
+[20Apr2025 22:15:19.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofidi lost connection: Timed out
+[20Apr2025 22:15:19.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi left the game
+[20Apr2025 22:15:19.582] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was unloaded

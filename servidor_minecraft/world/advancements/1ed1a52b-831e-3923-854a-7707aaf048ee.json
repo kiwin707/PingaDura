@@ -385,10 +385,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-04-20 22:03:55 +0000",
       "minecraft:beach": "2025-04-20 14:58:15 +0000",
       "minecraft:lukewarm_ocean": "2025-04-20 15:01:34 +0000",
       "minecraft:river": "2025-04-20 15:00:31 +0000",
       "minecraft:swamp": "2025-04-20 14:59:32 +0000",
+      "minecraft:ocean": "2025-04-20 22:02:57 +0000",
       "minecraft:windswept_savanna": "2025-04-20 14:59:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-20 22:01:49 +0000",
       "minecraft:savanna": "2025-04-20 15:01:06 +0000"
@@ -512,6 +514,30 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "onion": "2025-04-20 17:29:15 +0000"
+    },
+    "done": false
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-04-20 22:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-20 22:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-04-20 22:03:38 +0000"
+    },
+    "done": false
+  },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "flax_seeds": "2025-04-20 22:10:06 +0000"
     },
     "done": false
   },
