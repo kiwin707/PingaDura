@@ -1668,3 +1668,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Apr2025 02:44:48.430] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1133038c-9772-36c4-9aa1-f7fa76839f70 was loaded
 [21Apr2025 02:45:24.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Corpse Fish
 [21Apr2025 02:46:38.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX was slain by Corpse Fish
+[21Apr2025 02:56:20.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofidi[/127.38.223.203:51471] logged in with entity id 28481 at (-582.6821015471852, 64.0, 470.9338755916856)
+[21Apr2025 02:56:21.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi joined the game
+[21Apr2025 02:56:23.314] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was loaded
+[21Apr2025 02:57:25.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX has made the advancement [Bony King]

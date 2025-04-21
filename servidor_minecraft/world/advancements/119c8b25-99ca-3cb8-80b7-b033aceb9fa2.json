@@ -527,6 +527,7 @@
       "minecraft:skeleton": "2025-04-20 06:10:08 +0000",
       "minecraft:spider": "2025-04-20 04:31:39 +0000",
       "minecraft:creeper": "2025-04-20 23:20:10 +0000",
+      "minecraft:zombie": "2025-04-21 02:57:55 +0000",
       "minecraft:drowned": "2025-04-20 23:57:56 +0000",
       "minecraft:zombie_villager": "2025-04-20 23:05:40 +0000"
     },
@@ -571,6 +572,18 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-04-20 22:45:38 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:bony_king": {
+    "criteria": {
+      "bony_king": "2025-04-21 02:57:25 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-04-21 02:57:25 +0000"
     },
     "done": true
   },
