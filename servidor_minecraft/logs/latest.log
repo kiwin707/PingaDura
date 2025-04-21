@@ -1672,3 +1672,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Apr2025 02:56:21.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi joined the game
 [21Apr2025 02:56:23.314] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was loaded
 [21Apr2025 02:57:25.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX has made the advancement [Bony King]
+[21Apr2025 03:05:51.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX has made the advancement [Diamonds!]
+[21Apr2025 03:06:00.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofidi> no piquen diamantes
+[21Apr2025 03:06:05.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofidi> faltappoco para el fortuna
+[21Apr2025 03:07:01.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krisssss was slain by Zombie
+[21Apr2025 03:07:56.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has made the advancement [Take Aim]
+[21Apr2025 03:09:36.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi has made the advancement [Bony King]
+[21Apr2025 03:13:42.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi was slain by Nightmare Stalker
+[21Apr2025 03:13:42.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofidi lost connection: Disconnected
+[21Apr2025 03:13:42.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi left the game
+[21Apr2025 03:13:42.237] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was unloaded
+[21Apr2025 03:14:53.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LEMONZX lost connection: Disconnected
+[21Apr2025 03:14:53.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX left the game
+[21Apr2025 03:14:53.203] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 119c8b25-99ca-3cb8-80b7-b033aceb9fa2 was unloaded
+[21Apr2025 03:15:29.293] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3852fbc6[id=<null>,name=LEMONZX,properties={},legacy=false] (/127.115.23.118:44543): Took too long to log in
+[21Apr2025 03:15:29.293] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3852fbc6[id=<null>,name=LEMONZX,properties={},legacy=false] (/127.115.23.118:44543) lost connection: Took too long to log in
+[21Apr2025 03:15:29.343] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Apr2025 03:15:45.403] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6fcd1245[id=<null>,name=Sofidi,properties={},legacy=false] (/127.38.223.203:60303) lost connection: Disconnected
+[21Apr2025 03:15:57.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofidi[/127.38.223.203:37761] logged in with entity id 36000 at (-624.446528920778, 78.0, 589.3000000119209)
+[21Apr2025 03:15:57.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofidi joined the game
+[21Apr2025 03:15:58.247] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ed1a52b-831e-3923-854a-7707aaf048ee was loaded
+[21Apr2025 03:16:17.445] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@12ffa346[id=<null>,name=LEMONZX,properties={},legacy=false] (/127.115.23.118:33397): Took too long to log in
+[21Apr2025 03:16:17.445] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12ffa346[id=<null>,name=LEMONZX,properties={},legacy=false] (/127.115.23.118:33397) lost connection: Took too long to log in
+[21Apr2025 03:16:17.492] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Apr2025 03:16:33.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LEMONZX[/127.115.23.118:46675] logged in with entity id 36443 at (-332.6042079938345, -59.0, 610.6999999880791)
+[21Apr2025 03:16:33.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LEMONZX joined the game
+[21Apr2025 03:16:33.909] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 119c8b25-99ca-3cb8-80b7-b033aceb9fa2 was loaded

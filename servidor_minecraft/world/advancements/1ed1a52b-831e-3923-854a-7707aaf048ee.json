@@ -501,6 +501,7 @@
       "minecraft:spider": "2025-04-21 00:20:37 +0000",
       "minecraft:creeper": "2025-04-20 23:29:54 +0000",
       "minecraft:cave_spider": "2025-04-20 23:29:45 +0000",
+      "minecraft:enderman": "2025-04-21 03:05:36 +0000",
       "minecraft:zombie": "2025-04-20 23:26:11 +0000",
       "minecraft:zombie_villager": "2025-04-21 00:05:50 +0000"
     },
@@ -587,6 +588,24 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-20 23:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-21 03:07:56 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:bony_king": {
+    "criteria": {
+      "bony_king": "2025-04-21 03:09:36 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-04-21 03:09:36 +0000"
     },
     "done": true
   },
