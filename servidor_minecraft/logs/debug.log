@@ -16262,3 +16262,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Apr2025 01:37:24.581] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['LEMONZX'/92, l='ServerLevel[world]', x=-609.13, y=61.66, z=474.59]]
 [21Apr2025 01:37:24.832] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['LEMONZX'/92, l='ServerLevel[world]', x=-608.72, y=61.48, z=474.77]]
 [21Apr2025 01:37:25.643] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['LEMONZX'/92, l='ServerLevel[world]', x=-607.20, y=61.83, z=475.09]]
+[21Apr2025 01:39:13.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 01:39:13.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Apr2025 01:44:13.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 01:44:13.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
