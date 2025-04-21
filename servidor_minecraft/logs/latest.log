@@ -1608,3 +1608,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Apr2025 00:59:07.971] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 356783 bytes (in 36 string chunks with the size of 10000)
 [21Apr2025 00:59:07.972] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [21Apr2025 00:59:07.979] [Server thread/WARN] [ModernFix/]: Dedicated server took 81.8 seconds to load
+[21Apr2025 01:16:02.937] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4ec1dde1[id=<null>,name=LEMONZX,properties={},legacy=false] (/127.115.23.118:34173): Took too long to log in
+[21Apr2025 01:16:02.938] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ec1dde1[id=<null>,name=LEMONZX,properties={},legacy=false] (/127.115.23.118:34173) lost connection: Took too long to log in
+[21Apr2025 01:16:02.982] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
